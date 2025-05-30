@@ -1,5 +1,5 @@
 # Azure Mobile Source
 ## by Sprite Game Developer
 
-Изменения:
-- лала
+### Изменения:
+- 31.05.25 Fix Speedometer in Keyboard
