@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/hud_main"
+	package="com.addmusic"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:layout_gravity="end"
+	android:clipChildren="false"
+	android:visibility="invisible">
+
+	<androidx.constraintlayout.widget.ConstraintLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent">
+
+		<ImageView
+			android:id="@+id/imageView"
+			android:layout_width="35dp"
+			android:layout_height="35dp"
+			android:layout_marginStart="60dp"
+			android:layout_marginTop="120dp"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toTopOf="parent"
+			app:srcCompat="@drawable/krughud" />
+
+		<ImageView
+			android:id="@+id/imageView34"
+			android:layout_width="129dp"
+			android:layout_height="55dp"
+			android:layout_marginTop="10dp"
+			android:layout_marginEnd="10dp"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintTop_toBottomOf="@+id/imageView2"
+			app:srcCompat="@drawable/progressbar_launcher" />
+
+		<ImageView
+			android:id="@+id/btn_phone"
+			android:layout_width="35dp"
+			android:layout_height="35dp"
+			android:layout_marginStart="7dp"
+			android:layout_marginTop="8dp"
+			android:layout_marginBottom="5dp"
+			app:layout_constraintBottom_toBottomOf="@+id/imageView"
+			app:layout_constraintEnd_toEndOf="@+id/btn_shop"
+			app:layout_constraintHorizontal_bias="0.527"
+			app:layout_constraintStart_toEndOf="@+id/imageView"
+			app:layout_constraintTop_toBottomOf="@+id/btn_shop"
+			app:layout_constraintVertical_bias="0.306"
+			app:srcCompat="@drawable/krughud" />
+
+		<ImageView
+			android:id="@+id/imageView18"
+			android:layout_width="21dp"
+			android:layout_height="24dp"
+			app:layout_constraintBottom_toBottomOf="@+id/btn_phone"
+			app:layout_constraintEnd_toEndOf="@+id/btn_phone"
+			app:layout_constraintStart_toStartOf="@+id/btn_phone"
+			app:layout_constraintTop_toTopOf="@+id/btn_phone"
+			app:srcCompat="@drawable/common_full_open_on_phone" />
+
+		<ImageView
+			android:id="@+id/closehud"
+			android:layout_width="18dp"
+			android:layout_height="18dp"
+			app:layout_constraintBottom_toBottomOf="@+id/imageView"
+			app:layout_constraintEnd_toEndOf="@+id/imageView"
+			app:layout_constraintStart_toStartOf="@+id/imageView"
+			app:layout_constraintTop_toTopOf="@+id/imageView"
+			app:srcCompat="@drawable/ic_gameclub_players" />
+
+		<ImageView
+			android:id="@+id/btn_shop"
+			android:layout_width="35dp"
+			android:layout_height="35dp"
+			android:layout_marginStart="133dp"
+			android:layout_marginTop="20dp"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toTopOf="parent"
+			app:srcCompat="@drawable/krughud" />
+
+		<ImageView
+			android:id="@+id/imageView27"
+			android:layout_width="18dp"
+			android:layout_height="18dp"
+			app:layout_constraintBottom_toBottomOf="@+id/btn_shop"
+			app:layout_constraintEnd_toEndOf="@+id/btn_shop"
+			app:layout_constraintStart_toStartOf="@+id/btn_shop"
+			app:layout_constraintTop_toTopOf="@+id/btn_shop"
+			app:srcCompat="@drawable/ic_hud_shop" />
+
+		<ImageView
+			android:id="@+id/imageView2"
+			android:layout_width="206dp"
+			android:layout_height="26dp"
+			android:visibility="invisible"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintTop_toTopOf="parent"
+			app:srcCompat="@drawable/progressbar_launcher" />
+
+		<TextView
+			android:id="@id/money_text"
+			android:layout_width="129dp"
+			android:layout_height="35dp"
+			android:fontFamily="@font/montserrat_bold"
+			android:gravity="center|end"
+			android:shadowColor="@color/black"
+			android:shadowRadius="20"
+			android:text="50.350₽"
+			android:textColor="#ffffffff"
+			android:textSize="@dimen/_10sdp"
+			app:layout_constraintEnd_toEndOf="@+id/imageView34"
+			app:layout_constraintTop_toBottomOf="@+id/imageView34" />
+
+		<ImageView
+			android:id="@+id/datetimeImage"
+			android:layout_width="99dp"
+			android:layout_height="17dp"
+			android:layout_marginEnd="15dp"
+			android:layout_marginBottom="5dp"
+			android:visibility="invisible"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:srcCompat="@drawable/progressbar_launcher" />
+
+		<TextView
+			android:id="@+id/datetime"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:fontFamily="@font/montserrat_bold"
+			android:gravity="center"
+			android:shadowColor="@color/black"
+			android:shadowRadius="0"
+			android:text="2024-10-08 18:24"
+			android:textColor="@color/white"
+			android:textSize="10sp"
+			android:visibility="invisible"
+			app:layout_constraintBottom_toBottomOf="@+id/datetimeImage"
+			app:layout_constraintEnd_toEndOf="@+id/datetimeImage"
+			app:layout_constraintStart_toStartOf="@+id/datetimeImage"
+			app:layout_constraintTop_toTopOf="@+id/datetimeImage" />
+
+		<LinearLayout
+			android:id="@id/stat_0"
+			android:layout_width="103dp"
+			android:layout_height="26dp"
+			android:layout_marginEnd="2dp"
+			android:layout_weight="1.0"
+			android:orientation="horizontal"
+			app:layout_constraintBottom_toTopOf="@+id/stat_2"
+			app:layout_constraintEnd_toEndOf="@+id/imageView34"
+			app:layout_constraintStart_toStartOf="@+id/imageView34"
+			app:layout_constraintTop_toTopOf="@+id/imageView34">
+
+			<ImageView
+				android:layout_width="@dimen/_8sdp"
+				android:layout_height="fill_parent"
+				app:srcCompat="@drawable/ic_hud_hp" />
+
+			<ProgressBar
+				android:id="@id/progresshp"
+				style="?android:progressBarStyleHorizontal"
+				android:layout_width="89dp"
+				android:layout_height="4dp"
+				android:layout_gravity="center_vertical"
+				android:layout_marginStart="@dimen/_3sdp"
+				android:max="100"
+				android:progress="50"
+				android:progressBackgroundTint="#ffff2e9f"
+				android:progressBackgroundTintMode="src_in"
+				android:progressDrawable="@drawable/hud_progressbar_long"
+				android:progressTint="#ffff2e9f"
+				android:progressTintMode="src_in" />
+		</LinearLayout>
+
+		<LinearLayout
+			android:id="@id/stat_2"
+			android:layout_width="103dp"
+			android:layout_height="26dp"
+			android:layout_weight="1.0"
+			android:orientation="horizontal"
+			android:visibility="visible"
+			app:layout_constraintBottom_toBottomOf="@+id/imageView34"
+			app:layout_constraintEnd_toEndOf="@+id/stat_0"
+			app:layout_constraintStart_toStartOf="@+id/stat_0">
+
+			<ImageView
+				android:layout_width="@dimen/_8sdp"
+				android:layout_height="fill_parent"
+				android:visibility="visible"
+				app:srcCompat="@drawable/ic_hud_wanted" />
+
+			<ProgressBar
+				android:id="@id/wantedhud"
+				style="?android:progressBarStyleHorizontal"
+				android:layout_width="89dp"
+				android:layout_height="4dp"
+				android:layout_gravity="center_vertical"
+				android:layout_marginStart="@dimen/_3sdp"
+				android:max="6"
+				android:progress="5"
+				android:progressBackgroundTint="#FFA500"
+				android:progressBackgroundTintMode="src_in"
+				android:progressDrawable="@drawable/hud_progressbar_short"
+				android:progressTint="#FFA500"
+				android:progressTintMode="src_in"
+				android:visibility="visible" />
+
+		</LinearLayout>
+
+		<FrameLayout
+			android:id="@id/weapon_melee_layout"
+			android:layout_width="38dp"
+			android:layout_height="33dp"
+			android:layout_marginEnd="15dp"
+			app:layout_constraintBottom_toBottomOf="@+id/money_text"
+			app:layout_constraintEnd_toStartOf="@+id/imageView34"
+			app:layout_constraintTop_toTopOf="parent">
+
+			<ImageView
+				android:layout_width="fill_parent"
+				android:layout_height="fill_parent"
+				android:scaleType="fitXY"
+				app:srcCompat="@drawable/auth_bg_email" />
+
+			<ImageView
+				android:id="@id/weapon_melee_image"
+				android:layout_width="@dimen/_18sdp"
+				android:layout_height="@dimen/_18sdp"
+				android:layout_gravity="center"
+				app:srcCompat="@drawable/weapon_0" />
+
+		</FrameLayout>
+
+		<androidx.constraintlayout.widget.ConstraintLayout
+			android:id="@+id/gzweapon"
+			android:layout_width="53dp"
+			android:layout_height="47dp"
+			android:visibility="gone"
+			app:layout_constraintBottom_toBottomOf="@+id/weapon_melee_layout"
+			app:layout_constraintEnd_toEndOf="@+id/weapon_melee_layout"
+			app:layout_constraintStart_toStartOf="@+id/weapon_melee_layout"
+			app:layout_constraintTop_toTopOf="@+id/weapon_melee_layout">
+
+			<ImageView
+				android:id="@+id/imageView15"
+				android:layout_width="51dp"
+				android:layout_height="45dp"
+				app:layout_constraintBottom_toBottomOf="parent"
+				app:layout_constraintEnd_toEndOf="parent"
+				app:layout_constraintStart_toStartOf="parent"
+				app:layout_constraintTop_toTopOf="parent"
+				app:srcCompat="@drawable/hud_gz_bg" />
+
+			<ImageView
+				android:id="@+id/imageView22"
+				android:layout_width="26dp"
+				android:layout_height="24dp"
+				android:layout_marginStart="3dp"
+				app:layout_constraintBottom_toBottomOf="@+id/imageView15"
+				app:layout_constraintEnd_toEndOf="@+id/imageView15"
+				app:layout_constraintStart_toStartOf="parent"
+				app:layout_constraintTop_toTopOf="@+id/imageView15"
+				app:srcCompat="@drawable/ic_hud_gz" />
+		</androidx.constraintlayout.widget.ConstraintLayout>
+
+	</androidx.constraintlayout.widget.ConstraintLayout>
+
+	<LinearLayout
+		android:id="@id/hud_layout"
+		android:layout_width="210dp"
+		android:layout_height="154dp"
+		android:layout_gravity="end"
+		android:layout_marginTop="@dimen/_6sdp"
+		android:orientation="vertical"
+		android:visibility="gone">
+
+		<LinearLayout
+			android:id="@id/hud_stats_layout"
+			android:layout_width="match_parent"
+			android:layout_height="86dp"
+			android:orientation="vertical">
+
+			<LinearLayout
+				android:layout_width="128dp"
+				android:layout_height="31dp"
+				android:layout_gravity="end"
+				android:layout_marginEnd="@dimen/_6sdp"
+				android:orientation="horizontal"
+				android:translationX="0.30000007dip">
+
+				<FrameLayout
+					android:id="@id/wanted_layout"
+					android:layout_width="@dimen/_24sdp"
+					android:layout_height="fill_parent"
+					android:translationX="@dimen/_10sdp"
+					android:visibility="gone">
+
+					<ImageView
+						android:layout_width="fill_parent"
+						android:layout_height="fill_parent"
+						android:scaleType="fitXY"
+						app:srcCompat="@drawable/hud_wanted_bg" />
+
+					<FrameLayout
+						android:layout_width="@dimen/_10sdp"
+						android:layout_height="@dimen/_10sdp"
+						android:layout_gravity="center_vertical"
+						android:layout_marginStart="@dimen/_5sdp">
+
+						<ImageView
+							android:layout_width="fill_parent"
+							android:layout_height="fill_parent"
+							app:srcCompat="@drawable/ic_hud_wanted" />
+
+						<TextView
+							android:id="@id/wanted_text"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_gravity="center"
+							android:fontFamily="@font/ttnorms_black"
+							android:gravity="center"
+							android:includeFontPadding="false"
+							android:text="1"
+							android:textColor="#0E193C"
+							android:textSize="@dimen/_5sdp" />
+
+					</FrameLayout>
+				</FrameLayout>
+
+				<LinearLayout
+					android:layout_width="wrap_content"
+					android:layout_height="fill_parent"
+					android:layout_gravity="end"
+					android:orientation="horizontal">
+
+					<ImageView
+						android:layout_width="@dimen/_9sdp"
+						android:layout_height="fill_parent"
+						android:scaleType="fitXY"
+						android:translationX="@dimen/_2sdp"
+						app:srcCompat="@drawable/hud_money_bg_left" />
+
+					<FrameLayout
+						android:layout_width="wrap_content"
+						android:layout_height="fill_parent"
+						android:background="@drawable/hud_money_bg"
+						android:translationX="@dimen/_1sdp">
+
+						<LinearLayout
+							android:layout_width="fill_parent"
+							android:layout_height="fill_parent"
+							android:layout_marginStart="@dimen/_1sdp"
+							android:layout_marginTop="@dimen/_4sdp"
+							android:layout_marginEnd="@dimen/_1sdp"
+							android:layout_marginBottom="@dimen/_4sdp"
+							android:gravity="end"
+							android:orientation="horizontal">
+
+							<ImageView
+								android:layout_width="@dimen/_5sdp"
+								android:layout_height="fill_parent"
+								app:srcCompat="@drawable/ic_rubel" />
+
+						</LinearLayout>
+					</FrameLayout>
+
+					<ImageView
+						android:layout_width="@dimen/_9sdp"
+						android:layout_height="fill_parent"
+						android:scaleType="fitXY"
+						app:srcCompat="@drawable/hud_money_bg_right" />
+
+				</LinearLayout>
+			</LinearLayout>
+
+			<FrameLayout
+				android:layout_width="166dp"
+				android:layout_height="47dp"
+				android:layout_gravity="end"
+				android:layout_marginEnd="@dimen/_9sdp">
+
+				<ImageView
+					android:layout_width="fill_parent"
+					android:layout_height="fill_parent"
+					android:scaleType="fitXY"
+					app:srcCompat="@drawable/hud_stat_bg" />
+
+				<LinearLayout
+					android:layout_width="fill_parent"
+					android:layout_height="fill_parent"
+					android:orientation="vertical"
+					android:paddingStart="@dimen/_7sdp"
+					android:paddingTop="@dimen/_3sdp"
+					android:paddingEnd="@dimen/_7sdp"
+					android:paddingBottom="@dimen/_3sdp">
+
+					<LinearLayout
+						android:layout_width="fill_parent"
+						android:layout_height="0.0dip"
+						android:layout_marginTop="@dimen/_1sdp"
+						android:layout_marginEnd="@dimen/_2sdp"
+						android:layout_weight="1.0"
+						android:divider="@drawable/_5sdp_divider"
+						android:orientation="horizontal"
+						android:showDividers="middle">
+
+						<LinearLayout
+							android:id="@id/stat_1"
+							android:layout_width="0.0dip"
+							android:layout_height="fill_parent"
+							android:layout_weight="1.0"
+							android:orientation="horizontal">
+
+							<ImageView
+								android:layout_width="@dimen/_8sdp"
+								android:layout_height="fill_parent"
+								app:srcCompat="@drawable/ic_hud_eat" />
+
+							<ProgressBar
+								style="?android:progressBarStyleHorizontal"
+								android:layout_width="fill_parent"
+								android:layout_height="@dimen/_3sdp"
+								android:layout_gravity="center_vertical"
+								android:layout_marginStart="@dimen/_3sdp"
+								android:max="100"
+								android:progress="40"
+								android:progressBackgroundTint="#fff6980b"
+								android:progressBackgroundTintMode="src_in"
+								android:progressDrawable="@drawable/hud_progressbar_long"
+								android:progressTint="#fff6980b"
+								android:progressTintMode="src_in" />
+
+						</LinearLayout>
+
+						<LinearLayout
+							android:id="@id/stat_3"
+							android:layout_width="0.0dip"
+							android:layout_height="fill_parent"
+							android:layout_weight="1.0"
+							android:orientation="horizontal">
+
+							<ImageView
+								android:layout_width="@dimen/_8sdp"
+								android:layout_height="fill_parent"
+								app:srcCompat="@drawable/ic_hud_oxygen" />
+
+							<ProgressBar
+								style="?android:progressBarStyleHorizontal"
+								android:layout_width="fill_parent"
+								android:layout_height="@dimen/_3sdp"
+								android:layout_gravity="center_vertical"
+								android:layout_marginStart="@dimen/_3sdp"
+								android:max="1150"
+								android:progress="50"
+								android:progressBackgroundTint="#ff00d1ff"
+								android:progressBackgroundTintMode="src_in"
+								android:progressDrawable="@drawable/hud_progressbar_short"
+								android:progressTint="#ff00d1ff"
+								android:progressTintMode="src_in" />
+						</LinearLayout>
+					</LinearLayout>
+				</LinearLayout>
+			</FrameLayout>
+		</LinearLayout>
+
+		<FrameLayout
+			android:layout_width="168dp"
+			android:layout_height="45dp"
+			android:layout_gravity="end">
+
+			<LinearLayout
+				android:id="@id/buttons_layout_0"
+				android:layout_width="wrap_content"
+				android:layout_height="@dimen/_26sdp"
+				android:layout_gravity="end"
+				android:layout_marginTop="@dimen/_5sdp"
+				android:layout_marginEnd="@dimen/_17sdp"
+				android:orientation="horizontal">
+
+				<FrameLayout
+					android:id="@id/btn_bp"
+					android:layout_width="@dimen/_33sdp"
+					android:layout_height="fill_parent"
+					android:visibility="gone">
+
+					<ImageView
+						android:layout_width="fill_parent"
+						android:layout_height="fill_parent"
+						android:scaleType="fitXY"
+						app:srcCompat="@drawable/hud_btn_bg" />
+
+					<ImageView
+						android:layout_width="@dimen/_14sdp"
+						android:layout_height="@dimen/_14sdp"
+						android:layout_gravity="center"
+						app:srcCompat="@drawable/ic_hud_bp" />
+				</FrameLayout>
+
+				<FrameLayout
+					android:id="@id/btn_shop"
+					android:layout_width="@dimen/_33sdp"
+					android:layout_height="fill_parent"
+					android:visibility="invisible">
+
+					<ImageView
+						android:layout_width="fill_parent"
+						android:layout_height="fill_parent"
+						android:scaleType="fitXY"
+						app:srcCompat="@drawable/hud_btn_bg" />
+
+					<ImageView
+						android:layout_width="@dimen/_14sdp"
+						android:layout_height="@dimen/_14sdp"
+						android:layout_gravity="center"
+						app:srcCompat="@drawable/ic_hud_shop" />
+
+					<FrameLayout
+						android:id="@id/btn_shop_x2"
+						android:layout_width="@dimen/_12sdp"
+						android:layout_height="@dimen/_8sdp"
+						android:layout_gravity="end">
+
+						<ImageView
+							android:layout_width="fill_parent"
+							android:layout_height="fill_parent"
+							app:srcCompat="@drawable/ic_hud_shop_x2" />
+
+						<TextView
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_gravity="center"
+							android:fontFamily="@font/ttnorms_extrabold"
+							android:text="x2"
+							android:textColor="#ffffffff"
+							android:textSize="@dimen/_5sdp" />
+					</FrameLayout>
+				</FrameLayout>
+
+				<FrameLayout
+					android:id="@id/weapon_gz_layout"
+					android:layout_width="@dimen/_33sdp"
+					android:layout_height="fill_parent"
+					android:visibility="gone">
+
+					<ImageView
+						android:layout_width="fill_parent"
+						android:layout_height="fill_parent"
+						android:scaleType="fitXY"
+						app:srcCompat="@drawable/hud_gz_bg" />
+
+					<ImageView
+						android:layout_width="@dimen/_14sdp"
+						android:layout_height="@dimen/_14sdp"
+						android:layout_gravity="center"
+						app:srcCompat="@drawable/ic_hud_gz" />
+				</FrameLayout>
+
+				<FrameLayout
+					android:id="@id/weapon_ammo_layout"
+					android:layout_width="@dimen/_33sdp"
+					android:layout_height="fill_parent"
+					android:visibility="visible">
+
+					<ImageView
+						android:layout_width="fill_parent"
+						android:layout_height="fill_parent"
+						android:scaleType="fitXY"
+						app:srcCompat="@drawable/hud_weapon_icon_bg" />
+
+					<ImageView
+						android:id="@id/weapon_ammo_image"
+						android:layout_width="@dimen/_18sdp"
+						android:layout_height="@dimen/_14sdp"
+						android:layout_gravity="center"
+						android:layout_marginBottom="@dimen/_4sdp" />
+
+					<TextView
+						android:id="@id/weapon_ammo_text"
+						android:layout_width="fill_parent"
+						android:layout_height="wrap_content"
+						android:layout_gravity="bottom"
+						android:layout_marginStart="@dimen/_3sdp"
+						android:layout_marginEnd="@dimen/_8sdp"
+						android:layout_marginBottom="@dimen/_1sdp"
+						android:fontFamily="@font/ttnorms_extrabold"
+						android:gravity="center"
+						android:maxLines="1"
+						android:text="000-00"
+						android:textColor="#ffffffff"
+						android:textSize="@dimen/_5sdp"
+						app:autoSizeMaxTextSize="@dimen/_5sdp"
+						app:autoSizeMinTextSize="@dimen/_3sdp"
+						app:autoSizeTextType="uniform" />
+				</FrameLayout>
+			</LinearLayout>
+
+			<FrameLayout
+				android:id="@id/btn_quest"
+				android:layout_width="@dimen/_16sdp"
+				android:layout_height="@dimen/_31sdp"
+				android:layout_gravity="end"
+				android:visibility="invisible">
+
+				<ImageView
+					android:id="@id/btn_quest_image"
+					android:layout_width="fill_parent"
+					android:layout_height="fill_parent"
+					android:layout_gravity="bottom"
+					android:layout_marginTop="@dimen/_5sdp"
+					android:scaleType="fitXY"
+					app:srcCompat="@drawable/quest_open_bg0" />
+
+				<ImageView
+					android:layout_width="@dimen/_10sdp"
+					android:layout_height="@dimen/_10sdp"
+					android:layout_gravity="end|bottom|center"
+					android:layout_marginEnd="@dimen/_1sdp"
+					android:layout_marginBottom="@dimen/_8sdp"
+					app:srcCompat="@drawable/ic_quest_arrow_open" />
+
+				<ImageView
+					android:id="@id/btn_quest_alert"
+					android:layout_width="@dimen/_8sdp"
+					android:layout_height="@dimen/_8sdp"
+					android:layout_marginStart="@dimen/_2sdp"
+					android:layout_marginTop="@dimen/_1sdp"
+					android:visibility="gone"
+					app:srcCompat="@drawable/hud_btn_bg" />
+
+			</FrameLayout>
+		</FrameLayout>
+
+		<FrameLayout
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:layout_marginStart="@dimen/_minus4sdp"
+			android:layout_marginTop="@dimen/_4sdp"
+			android:visibility="gone">
+
+			<FrameLayout
+				android:id="@id/notify_btn"
+				android:layout_width="@dimen/_86sdp"
+				android:layout_height="@dimen/_14sdp"
+				android:visibility="visible">
+
+				<ImageView
+					android:layout_width="fill_parent"
+					android:layout_height="fill_parent"
+					android:scaleType="fitStart"
+					app:srcCompat="@drawable/hud_fcm_notify_bg" />
+
+				<ImageView
+					android:layout_width="fill_parent"
+					android:layout_height="fill_parent"
+					android:scaleType="fitEnd"
+					app:srcCompat="@drawable/ic_hud_fcm_clickable" />
+
+				<ImageView
+					android:layout_width="@dimen/_7sdp"
+					android:layout_height="@dimen/_7sdp"
+					android:layout_gravity="center_vertical"
+					android:layout_marginStart="@dimen/_8sdp"
+					app:srcCompat="@drawable/ic_hud_fcm_bell" />
+
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_gravity="center_vertical"
+					android:layout_marginStart="@dimen/_18sdp"
+					android:fontFamily="@font/ttnorms_bold"
+					android:text="Новое уведомление!"
+					android:textColor="#ffffffff"
+					android:textSize="@dimen/_5sdp" />
+			</FrameLayout>
+		</FrameLayout>
+	</LinearLayout>
+
+	<LinearLayout
+		android:id="@id/quest_layout"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="end"
+		android:layout_marginTop="@dimen/_15sdp"
+		android:background="@drawable/hud_quest_bg0"
+		android:orientation="vertical"
+		android:paddingStart="@dimen/_9sdp"
+		android:paddingTop="@dimen/_8sdp"
+		android:paddingEnd="@dimen/_9sdp"
+		android:paddingBottom="@dimen/_8sdp"
+		android:visibility="gone">
+
+		<TextView
+			android:id="@id/quest_caption"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:fontFamily="@font/ttnorms_bold"
+			android:text="Уведомление\nСпасибо за помощь в тестировании :)"
+			android:textColor="#ffffffff"
+			android:textSize="@dimen/_8sdp" />
+
+		<TextView
+			android:id="@id/quest_text"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="@dimen/_3sdp"
+			android:fontFamily="@font/ttnorms_medium"
+			android:textColor="#ffffffff"
+			android:textSize="@dimen/_6sdp" />
+
+		<LinearLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="@dimen/_6sdp"
+			android:divider="@drawable/_4sdp_divider"
+			android:orientation="horizontal"
+			android:showDividers="middle">
+
+			<TextView
+				android:id="@id/quest_btn_optional"
+				android:layout_width="fill_parent"
+				android:layout_height="fill_parent"
+				android:layout_weight="1.0"
+				android:background="@drawable/hud_quest_btn_bg0"
+				android:fontFamily="@font/ttnorms_bold"
+				android:gravity="center"
+				android:paddingStart="@dimen/_9sdp"
+				android:paddingTop="@dimen/_7sdp"
+				android:paddingEnd="@dimen/_9sdp"
+				android:paddingBottom="@dimen/_7sdp"
+				android:text="Хорошо"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_7sdp" />
+
+			<LinearLayout
+				android:id="@id/quest_btn_hide"
+				android:layout_width="fill_parent"
+				android:layout_height="fill_parent"
+				android:layout_weight="1.0"
+				android:background="@drawable/hud_quest_btn_bg0"
+				android:gravity="center"
+				android:orientation="horizontal"
+				android:paddingStart="@dimen/_9sdp"
+				android:paddingTop="@dimen/_7sdp"
+				android:paddingEnd="@dimen/_9sdp"
+				android:paddingBottom="@dimen/_7sdp">
+
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="fill_parent"
+					android:layout_gravity="center_vertical"
+					android:fontFamily="@font/ttnorms_bold"
+					android:text="Свернуть"
+					android:textColor="#ffffffff"
+					android:textSize="@dimen/_7sdp" />
+
+				<ImageView
+					android:layout_width="@dimen/_7sdp"
+					android:layout_height="@dimen/_8sdp"
+					android:layout_gravity="center_vertical"
+					android:layout_marginStart="@dimen/_1sdp"
+					app:srcCompat="@drawable/ic_quest_arrow_close" />
+			</LinearLayout>
+		</LinearLayout>
+	</LinearLayout>
+
+	<FrameLayout
+		android:id="@id/hud_chat_btn"
+		android:layout_width="@dimen/_29sdp"
+		android:layout_height="@dimen/_24sdp"
+		android:layout_marginStart="@dimen/_67sdp"
+		android:layout_marginTop="@dimen/_75sdp"
+		android:visibility="gone">
+
+		<ImageView
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:scaleType="fitXY"
+			app:srcCompat="@drawable/hud_chat_bg" />
+
+		<ImageView
+			android:id="@id/chat_icon"
+			android:layout_width="@dimen/_12sdp"
+			android:layout_height="@dimen/_12sdp"
+			android:layout_gravity="center"
+			app:srcCompat="@drawable/ic_hud_chat_active" />
+	</FrameLayout>
+
+	<FrameLayout
+		android:id="@id/btn_voice"
+		android:layout_width="@dimen/_35sdp"
+		android:layout_height="@dimen/_35sdp"
+		android:layout_gravity="end"
+		android:layout_marginTop="@dimen/_123sdp"
+		android:layout_marginEnd="@dimen/_64sdp"
+		android:visibility="gone">
+
+		<ImageView
+			android:id="@id/btn_voice_active"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:scaleType="fitXY"
+			android:visibility="gone"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toTopOf="parent"
+			app:srcCompat="@drawable/ic_button_voice_active" />
+
+		<ImageView
+			android:id="@id/btn_voice_inactive"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:scaleType="fitXY"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toTopOf="parent"
+			app:srcCompat="@drawable/ic_button_voice_inactive" />
+
+		<ImageView
+			android:id="@id/btn_voice_muted"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:scaleType="fitXY"
+			android:visibility="gone"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toTopOf="parent"
+			app:srcCompat="@drawable/ic_button_voice_muted" />
+
+	</FrameLayout>
+
+</FrameLayout>

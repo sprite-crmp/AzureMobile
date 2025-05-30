@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@id/noty_layout"
+	android:layout_width="wrap_content"
+	android:layout_height="@dimen/_35sdp"
+	android:layout_gravity="bottom|center"
+	android:clickable="true"
+	android:translationY="@dimen/_minus10sdp"
+	app:cardBackgroundColor="@android:color/transparent"
+	app:cardCornerRadius="@dimen/_5sdp"
+	app:cardElevation="0.0dip"
+	app:cardMaxElevation="0.0dip"
+	app:cardPreventCornerOverlap="false"
+	app:cardUseCompatPadding="false">
+
+	<androidx.constraintlayout.widget.ConstraintLayout
+		android:id="@+id/constt"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent">
+
+		<ImageView
+			android:id="@id/imageView76"
+			android:layout_width="0.0dip"
+			android:layout_height="0.0dip"
+			android:scaleType="fitXY"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintHorizontal_bias="0.0"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toTopOf="parent"
+			app:layout_constraintVertical_bias="0.0"
+			app:srcCompat="@drawable/ic_noty_bg" />
+
+		<androidx.cardview.widget.CardView
+			android:id="@id/cardView7"
+			android:layout_width="@dimen/_39sdp"
+			android:layout_height="@dimen/_39sdp"
+			app:cardBackgroundColor="#191970"
+			app:cardCornerRadius="@dimen/_5sdp"
+			app:cardElevation="0.0dip"
+			app:cardMaxElevation="0.0dip"
+			app:cardPreventCornerOverlap="false"
+			app:cardUseCompatPadding="false"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toTopOf="parent">
+
+			<ImageView
+				android:id="@id/noty_bg_image"
+				android:layout_width="fill_parent"
+				android:layout_height="fill_parent"
+				android:scaleType="fitXY"
+				app:cardBackgroundColor="#191970" />
+
+			<androidx.cardview.widget.CardView
+				android:layout_width="fill_parent"
+				android:layout_height="fill_parent"
+				android:layout_marginStart="@dimen/_1sdp"
+				android:layout_marginTop="@dimen/_1sdp"
+				android:layout_marginEnd="@dimen/_1sdp"
+				android:layout_marginBottom="@dimen/_1sdp"
+				app:cardBackgroundColor="#191970"
+				app:cardCornerRadius="@dimen/_4sdp"
+				app:cardElevation="0.0dip"
+				app:cardMaxElevation="0.0dip"
+				app:cardPreventCornerOverlap="false"
+				app:cardUseCompatPadding="false" />
+
+			<ImageView
+				android:id="@id/noty_image"
+				android:layout_width="23dp"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center"
+				app:srcCompat="@drawable/launcher_main_info_ic" />
+		</androidx.cardview.widget.CardView>
+
+		<TextView
+			android:id="@id/noty_text"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginStart="@dimen/_14sdp"
+			android:fontFamily="@font/muller_medium"
+			android:maxLines="3"
+			android:paddingEnd="@dimen/_18sdp"
+			android:text="Azure Mobile"
+			android:textColor="#ffffffff"
+			android:textSize="@dimen/_9sdp"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintStart_toEndOf="@id/cardView7"
+			app:layout_constraintTop_toTopOf="parent" />
+
+		<FrameLayout
+			android:id="@id/noty_btn_1"
+			android:layout_width="58dp"
+			android:layout_height="29dp"
+			android:layout_marginEnd="@dimen/_6sdp"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toStartOf="@id/noty_btn_2"
+			app:layout_constraintStart_toEndOf="@id/noty_text"
+			app:layout_constraintTop_toTopOf="parent">
+
+			<ImageView
+				android:id="@id/noty_btn_bg_1"
+				android:layout_width="fill_parent"
+				android:layout_height="fill_parent"
+				android:scaleType="fitXY"
+				app:srcCompat="@drawable/ic_noty_btn_1" />
+
+			<TextView
+				android:id="@id/noty_btn_text_1"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center"
+				android:fontFamily="@font/ttnorms_bold"
+				android:text=">>"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_9sdp" />
+		</FrameLayout>
+
+		<FrameLayout
+			android:id="@id/noty_btn_2"
+			android:layout_width="@dimen/_77sdp"
+			android:layout_height="@dimen/_29sdp"
+			android:layout_marginEnd="@dimen/_6sdp"
+			android:visibility="gone"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toEndOf="@id/noty_btn_1"
+			app:layout_constraintTop_toTopOf="parent">
+
+			<ImageView
+				android:id="@id/noty_btn_bg_2"
+				android:layout_width="fill_parent"
+				android:layout_height="fill_parent"
+				android:scaleType="fitXY"
+				app:srcCompat="@drawable/ic_noty_btn_2" />
+
+			<TextView
+				android:id="@id/noty_btn_text_2"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center"
+				android:fontFamily="@font/ttnorms_bold"
+				android:text="button"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_9sdp" />
+		</FrameLayout>
+
+		<ProgressBar
+			android:id="@id/noty_progress"
+			style="?android:progressBarStyleHorizontal"
+			android:layout_width="0.0dip"
+			android:layout_height="@dimen/_1sdp"
+			android:indeterminate="false"
+			android:indeterminateDrawable="@drawable/bg_yellow"
+			android:max="1000"
+			android:progress="800"
+			android:progressDrawable="@drawable/btn_azure"
+			android:visibility="gone"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toStartOf="parent" />
+	</androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:clickable="true">
+
+	<ImageView
+		android:id="@id/imageView21"
+		android:layout_width="0.0dip"
+		android:layout_height="0.0dip"
+		android:scaleType="fitXY"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent"
+		app:srcCompat="@drawable/launcher_bg_pic" />
+
+	<ImageView
+		android:id="@id/story_picture_back"
+		android:layout_width="0.0dip"
+		android:layout_height="0.0dip"
+		android:scaleType="centerCrop"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent" />
+
+	<ImageView
+		android:layout_width="0.0dip"
+		android:layout_height="0.0dip"
+		app:layout_constraintDimensionRatio="1080:605"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent"
+		app:srcCompat="@drawable/story_blackout" />
+
+	<ImageView
+		android:layout_width="0.0dip"
+		android:layout_height="0.0dip"
+		android:rotation="180.0"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintDimensionRatio="1080:605"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:srcCompat="@drawable/story_blackout" />
+
+	<View
+		android:id="@id/story_prev"
+		android:layout_width="0.0dip"
+		android:layout_height="0.0dip"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent"
+		app:layout_constraintWidth_percent="0.5" />
+
+	<View
+		android:id="@id/story_next"
+		android:layout_width="0.0dip"
+		android:layout_height="0.0dip"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintTop_toTopOf="parent"
+		app:layout_constraintWidth_percent="0.5" />
+
+	<LinearLayout
+		android:layout_width="0.0dip"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal"
+		app:layout_constraintEnd_toStartOf="@id/guideline37"
+		app:layout_constraintStart_toStartOf="@id/guideline34"
+		app:layout_constraintTop_toTopOf="@id/guideline38">
+
+		<LinearLayout
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_weight="1.0"
+			android:orientation="vertical">
+
+			<TextView
+				android:id="@id/story_caption_top"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:fontFamily="@font/ttnorms_regular"
+				android:text="Истории"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_16sdp" />
+
+			<TextView
+				android:id="@id/story_caption_bottom"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:fontFamily="@font/ttnorms_bold"
+				android:text="Azure Mobile"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_16sdp" />
+		</LinearLayout>
+
+	</LinearLayout>
+
+	<androidx.cardview.widget.CardView
+		android:id="@id/story_details"
+		android:layout_width="219dp"
+		android:layout_height="46dp"
+		app:cardBackgroundColor="#ff0085ff"
+		app:cardCornerRadius="@dimen/_4sdp"
+		app:cardElevation="0.0dip"
+		app:cardMaxElevation="0.0dip"
+		app:cardPreventCornerOverlap="false"
+		app:cardUseCompatPadding="false"
+		app:layout_constraintBottom_toTopOf="@id/guideline36"
+		app:layout_constraintDimensionRatio="791:147"
+		app:layout_constraintEnd_toStartOf="@id/guideline37"
+		app:layout_constraintStart_toStartOf="@id/guideline34">
+
+		<LinearLayout
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"
+			android:orientation="horizontal">
+
+			<ImageView
+				android:layout_width="@dimen/_14sdp"
+				android:layout_height="@dimen/_14sdp"
+				android:layout_gravity="center_vertical"
+				app:srcCompat="@drawable/ic_url" />
+
+			<TextView
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_vertical"
+				android:layout_marginStart="@dimen/_11sdp"
+				android:fontFamily="@font/ttnorms_medium"
+				android:text="Читать подробнее"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_11sdp" />
+		</LinearLayout>
+	</androidx.cardview.widget.CardView>
+
+	<androidx.constraintlayout.widget.Guideline
+		android:id="@id/guideline37"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:orientation="vertical"
+		app:layout_constraintGuide_percent="0.8662035" />
+
+	<androidx.constraintlayout.widget.Guideline
+		android:id="@id/guideline36"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal"
+		app:layout_constraintGuide_percent="0.9036458" />
+
+	<androidx.constraintlayout.widget.Guideline
+		android:id="@id/guideline38"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal"
+		app:layout_constraintGuide_percent="0.065" />
+
+	<androidx.constraintlayout.widget.Guideline
+		android:id="@id/guideline34"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:orientation="vertical"
+		app:layout_constraintGuide_percent="0.1337965" />
+</androidx.constraintlayout.widget.ConstraintLayout>

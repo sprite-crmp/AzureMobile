@@ -1,0 +1,8 @@
+ru.azure.games.test.BuildConfig
+ru.azure.games.test.R
+ru.azure.games.test.BuildConfig: java.lang.String BUILD_TYPE
+ru.azure.games.test.BuildConfig: java.lang.String APPLICATION_ID
+ru.azure.games.test.BuildConfig: boolean DEBUG
+ru.azure.games.test.BuildConfig: <clinit>()
+ru.azure.games.test.BuildConfig: BuildConfig()
+ru.azure.games.test.R: R()

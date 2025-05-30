@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "ru.azure.games.app-mergeDebugResources-4:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\caches\\transforms-3\\83fa5ca6ca08510ad8ea2db77d398bf6\\transformed\\appcompat-1.2.0\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

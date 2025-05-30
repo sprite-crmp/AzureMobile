@@ -1,0 +1,4 @@
+#Fri May 23 20:44:35 YEKT 2025
+base.0=D\:\\Kirill\\Java\\Matreshka\\Java\\app\\build\\intermediates\\dex\\debugAndroidTest\\minifyDebugAndroidTestWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

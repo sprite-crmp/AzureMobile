@@ -1,0 +1,11 @@
+# The proguard configuration file for the following section is <unknown>
+-dontoptimize
+-keep class * {*;}
+-keep interface * {*;}
+-keep enum * {*;}
+-keepattributes *
+-ignorewarnings
+# End of content from <unknown>
+# The proguard configuration file for the following section is <unknown>
+-applymapping "D:\Kirill\Java\Matreshka\Java\app\build\outputs\mapping\debug\mapping.txt"
+# End of content from <unknown>

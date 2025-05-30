@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent">
+
+	<ImageView
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:background="@color/color_0F0F0F"
+		android:scaleType="fitXY" />
+
+	<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/settings_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+
+		<androidx.constraintlayout.widget.Guideline
+			android:id="@id/guideline44"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:orientation="vertical"
+			app:layout_constraintGuide_begin="180dp" />
+
+		<androidx.constraintlayout.widget.Guideline
+			android:id="@id/guideline45"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:orientation="vertical"
+			app:layout_constraintGuide_percent="0.77" />
+
+		<androidx.constraintlayout.widget.Guideline
+			android:id="@id/guideline43"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:orientation="horizontal"
+			app:layout_constraintGuide_percent="0.04" />
+		<LinearLayout android:orientation="horizontal" android:id="@id/header_layout" android:paddingBottom="@dimen/_24sdp" android:layout_width="0.0dip" android:layout_height="wrap_content" app:layout_constraintEnd_toStartOf="@id/guideline45" app:layout_constraintStart_toStartOf="@id/guideline44" app:layout_constraintTop_toTopOf="@id/guideline43">
+			<LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+
+				<TextView
+					android:id="@id/story_caption_top"
+					android:layout_width="fill_parent"
+					android:layout_height="15dp"
+					android:fontFamily="@font/ttnorms_regular"
+					android:textColor="#ffffffff"
+					android:textSize="@dimen/_16sdp" />
+
+				<TextView
+					android:id="@id/story_caption_bottom"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:fontFamily="@font/ttnorms_bold"
+					android:text="Настройки 🔧"
+					android:textColor="#ffffffff"
+					android:textSize="@dimen/_16sdp" />
+			</LinearLayout>
+
+			<ImageView
+				android:id="@id/btn_close"
+				android:layout_width="44dp"
+				android:layout_height="33dp"
+				android:layout_gravity="center_vertical"
+				android:layout_marginStart="@dimen/_14sdp"
+				app:srcCompat="@drawable/ic_launcher_close" />
+		</LinearLayout>
+
+		<ScrollView
+			android:layout_width="0.0dip"
+			android:layout_height="0.0dip"
+			android:fadeScrollbars="false"
+			android:scrollbarSize="@dimen/_4sdp"
+			android:scrollbarThumbVertical="@drawable/_4sdp_divider"
+			android:scrollbarTrackVertical="@drawable/_2sdp_divider"
+			android:scrollbars="vertical"
+			app:layout_constraintBottom_toTopOf="@id/faq_layout"
+			app:layout_constraintEnd_toStartOf="@id/guideline45"
+			app:layout_constraintStart_toStartOf="@id/guideline44"
+			app:layout_constraintTop_toBottomOf="@id/header_layout">
+
+			<LinearLayout
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:orientation="vertical">
+
+				<LinearLayout
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:orientation="vertical"
+					android:paddingBottom="@dimen/_32sdp">
+
+					<TextView
+						android:id="@+id/account_not_auth_text"
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:fontFamily="@font/ttnorms_regular"
+						android:paddingBottom="@dimen/_7sdp"
+						android:text="Укажите ник в окно ниже"
+						android:textColor="#ffffffff"
+						android:textSize="@dimen/_10sdp"
+						app:layout_constraintStart_toStartOf="parent"
+						app:layout_constraintTop_toTopOf="parent" />
+
+					<FrameLayout
+						android:id="@+id/account_layout"
+						android:layout_width="match_parent"
+						android:layout_height="@dimen/_42sdp">
+
+						<ImageView
+							android:id="@+id/account_background"
+							android:layout_width="match_parent"
+							android:layout_height="match_parent"
+							app:srcCompat="@drawable/auth_bg_email" />
+
+						<ImageView
+							android:id="@+id/account_image"
+							android:layout_width="@dimen/_20sdp"
+							android:layout_height="@dimen/_20sdp"
+							android:layout_gravity="center_vertical"
+							android:layout_marginStart="@dimen/_12sdp"
+							app:srcCompat="@drawable/ic_launcher_user" />
+
+						<EditText
+							android:id="@+id/account_text"
+							android:layout_width="match_parent"
+							android:layout_height="wrap_content"
+							android:layout_gravity="center"
+							android:layout_marginStart="@dimen/_37sdp"
+							android:layout_marginEnd="@dimen/_37sdp"
+							android:fontFamily="@font/ttnorms_regular"
+							android:gravity="center"
+							android:hint="Ваш игровой ник"
+							android:imeOptions="flagNoExtractUi|flagNoFullscreen|actionDone"
+							android:inputType="text"
+							android:lines="1"
+							android:maxLines="1"
+							android:singleLine="true"
+							android:textColor="#ffffffff"
+							android:textColorHighlight="#2196F3"
+							android:textColorHint="#FFFFFF"
+							android:textColorLink="#2196F3"
+							android:textSize="@dimen/_12sdp"
+							app:autoSizeMaxTextSize="@dimen/_12sdp"
+							app:autoSizeMinTextSize="@dimen/_3sdp"
+							app:autoSizeTextType="uniform" />
+
+					</FrameLayout>
+
+					<ImageView
+						android:id="@+id/account_background"
+						android:layout_width="match_parent"
+						android:layout_height="match_parent"
+						app:srcCompat="@drawable/auth_bg_email" />
+				</LinearLayout>
+
+				<FrameLayout
+					android:id="@id/btn_reinstall_data"
+					android:layout_width="fill_parent"
+					android:layout_height="@dimen/_42sdp"
+					android:layout_marginBottom="@dimen/_16sdp"
+					android:background="@drawable/auth_bg_button">
+
+					<TextView
+						android:layout_width="fill_parent"
+						android:layout_height="wrap_content"
+						android:layout_gravity="center"
+						android:layout_marginStart="@dimen/_37sdp"
+						android:layout_marginEnd="@dimen/_37sdp"
+						android:fontFamily="@font/ttnorms_medium"
+						android:gravity="center"
+						android:maxLines="1"
+						android:text="Удалить файлы игры"
+						android:textColor="#ffffffff"
+						android:textSize="@dimen/_12sdp"
+						app:autoSizeMaxTextSize="@dimen/_12sdp"
+						app:autoSizeMinTextSize="@dimen/_3sdp"
+						app:autoSizeTextType="uniform" />
+				</FrameLayout>
+
+				<FrameLayout
+					android:id="@id/btn_reinstall_dev"
+					android:layout_width="fill_parent"
+					android:layout_height="@dimen/_42sdp"
+					android:layout_marginBottom="@dimen/_16sdp"
+					android:background="@drawable/auth_bg_button">
+
+					<TextView
+						android:layout_width="fill_parent"
+						android:layout_height="wrap_content"
+						android:layout_gravity="center"
+						android:layout_marginStart="@dimen/_37sdp"
+						android:layout_marginEnd="@dimen/_37sdp"
+						android:fontFamily="@font/ttnorms_medium"
+						android:gravity="center"
+						android:maxLines="1"
+						android:text="Удалить кеш загрузки"
+						android:textColor="#ffffffff"
+						android:textSize="@dimen/_12sdp"
+						app:autoSizeMaxTextSize="@dimen/_12sdp"
+						app:autoSizeMinTextSize="@dimen/_3sdp"
+						app:autoSizeTextType="uniform" />
+				</FrameLayout>
+
+				<FrameLayout
+					android:id="@id/btn_reinstall_client"
+					android:layout_width="fill_parent"
+					android:layout_height="@dimen/_42sdp"
+					android:layout_marginBottom="@dimen/_16sdp"
+					android:background="@drawable/auth_bg_button"
+					android:visibility="visible">
+
+					<TextView
+						android:layout_width="fill_parent"
+						android:layout_height="wrap_content"
+						android:layout_gravity="center"
+						android:layout_marginStart="@dimen/_37sdp"
+						android:layout_marginEnd="@dimen/_37sdp"
+						android:fontFamily="@font/ttnorms_medium"
+						android:gravity="center"
+						android:maxLines="1"
+						android:text="Перезапустить лаунчер"
+						android:textColor="#ffffffff"
+						android:textSize="@dimen/_12sdp"
+						app:autoSizeMaxTextSize="@dimen/_12sdp"
+						app:autoSizeMinTextSize="@dimen/_3sdp"
+						app:autoSizeTextType="uniform" />
+				</FrameLayout>
+
+				<FrameLayout
+					android:id="@id/btn_changepass"
+					android:layout_width="fill_parent"
+					android:layout_height="@dimen/_42sdp"
+					android:layout_marginBottom="@dimen/_16sdp"
+					android:background="@drawable/auth_bg_button"
+					android:visibility="gone">
+
+					<TextView
+						android:layout_width="fill_parent"
+						android:layout_height="wrap_content"
+						android:layout_gravity="center"
+						android:layout_marginStart="@dimen/_37sdp"
+						android:layout_marginEnd="@dimen/_37sdp"
+						android:fontFamily="@font/ttnorms_medium"
+						android:gravity="center"
+						android:maxLines="1"
+						android:text="Сменить пароль"
+						android:textColor="#ffffffff"
+						android:textSize="@dimen/_12sdp"
+						app:autoSizeMaxTextSize="@dimen/_12sdp"
+						app:autoSizeMinTextSize="@dimen/_3sdp"
+						app:autoSizeTextType="uniform" />
+				</FrameLayout>
+			</LinearLayout>
+		</ScrollView>
+		<LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/faq_layout" android:paddingTop="@dimen/_18sdp" android:paddingBottom="@dimen/_18sdp" android:layout_width="0.0dip" android:layout_height="wrap_content" app:layout_constraintBottom_toTopOf="@id/links_button" app:layout_constraintEnd_toStartOf="@id/guideline45" app:layout_constraintStart_toStartOf="@id/guideline44">
+
+			<TextView
+				android:id="@id/faq_text"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center"
+				android:layout_marginStart="@dimen/_8sdp"
+				android:fontFamily="@font/ttnorms_regular"
+				android:gravity="center"
+				android:text="cache = 1\napk = 2"
+				android:textColor="#ffffffff"
+				android:textSize="13sp"
+				android:visibility="invisible" />
+		</LinearLayout>
+
+		<androidx.constraintlayout.widget.ConstraintLayout
+			android:id="@id/links_button"
+			android:layout_width="0.0dip"
+			android:layout_height="0.0dip"
+			android:scaleType="fitXY"
+			android:visibility="gone"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintDimensionRatio="791:230"
+			app:layout_constraintEnd_toStartOf="@id/guideline45"
+			app:layout_constraintStart_toStartOf="@id/guideline44">
+
+			<ImageView
+				android:layout_width="0.0dip"
+				android:layout_height="0.0dip"
+				android:scaleType="fitXY"
+				app:layout_constraintBottom_toBottomOf="parent"
+				app:layout_constraintEnd_toEndOf="parent"
+				app:layout_constraintStart_toStartOf="parent"
+				app:layout_constraintTop_toTopOf="parent"
+				app:srcCompat="@drawable/ic_main_footer" />
+
+			<FrameLayout
+				android:id="@id/btn_logout"
+				android:layout_width="0.0dip"
+				android:layout_height="0.0dip"
+				android:orientation="horizontal"
+				app:layout_constraintBottom_toBottomOf="parent"
+				app:layout_constraintEnd_toEndOf="parent"
+				app:layout_constraintStart_toStartOf="parent"
+				app:layout_constraintTop_toTopOf="parent">
+
+				<LinearLayout
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_gravity="center"
+					android:orientation="horizontal">
+
+					<ImageView
+						android:layout_width="@dimen/_17sdp"
+						android:layout_height="@dimen/_16sdp"
+						android:layout_gravity="center_vertical"
+						android:scaleType="fitXY"
+						app:srcCompat="@drawable/ic_launcher_exit" />
+
+					<TextView
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_gravity="center_vertical"
+						android:layout_marginStart="@dimen/_11sdp"
+						android:fontFamily="@font/ttnorms_medium"
+						android:text="Выйти из аккаунта"
+						android:textColor="#ffffffff"
+						android:textSize="@dimen/_14sdp" />
+				</LinearLayout>
+			</FrameLayout>
+		</androidx.constraintlayout.widget.ConstraintLayout>
+	</androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

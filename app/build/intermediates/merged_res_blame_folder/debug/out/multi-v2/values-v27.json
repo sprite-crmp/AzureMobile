@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "ru.azure.games.app-mergeDebugResources-4:/values-v27/values-v27.xml",
+            "map": [
+                {
+                    "source": "D:\\Kirill\\Java\\Matreshka\\Java\\app\\src\\main\\res\\values-v27\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "447"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "440"
+                    }
+                }
+            ]
+        }
+    ]
+}

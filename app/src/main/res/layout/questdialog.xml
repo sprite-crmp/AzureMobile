@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/questdialog"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="invisible">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background_br_input">
+
+        <ImageView
+            android:id="@+id/imageView47"
+            android:layout_width="186dp"
+            android:layout_height="396dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/imageView49"
+            app:layout_constraintHorizontal_bias="0.484"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/imageView49"
+            app:srcCompat="@drawable/anonymus" />
+
+        <ImageView
+            android:id="@+id/imageView49"
+            android:layout_width="631dp"
+            android:layout_height="160dp"
+            android:layout_marginEnd="30dp"
+            android:layout_marginBottom="20dp"
+            android:visibility="invisible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:srcCompat="@drawable/auth_bg_email" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/story_fg">
+
+        <ImageView
+            android:id="@+id/imageView17"
+            android:layout_width="631dp"
+            android:layout_height="160dp"
+            android:layout_marginEnd="30dp"
+            android:layout_marginBottom="20dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:srcCompat="@drawable/ic_dialog_list_bg_old" />
+
+        <TextView
+            android:id="@+id/playerr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/montserrat_bold"
+            android:text="Kirill_Zikalov | Java Coder"
+            android:textColor="#FF3219"
+            android:textSize="16sp"
+            app:layout_constraintStart_toStartOf="@+id/imageView17"
+            app:layout_constraintTop_toTopOf="@+id/imageView17" />
+
+        <TextView
+            android:id="@+id/playerdialogg"
+            android:layout_width="596dp"
+            android:layout_height="78dp"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/montserrat_bold"
+            android:text="Туда эту джаву"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            app:layout_constraintStart_toStartOf="@+id/playerr"
+            app:layout_constraintTop_toBottomOf="@+id/playerr" />
+
+        <TextView
+            android:id="@+id/timedialog"
+            android:layout_width="90dp"
+            android:layout_height="27dp"
+            android:fontFamily="@font/montserrat_bold"
+            android:gravity="center"
+            android:text="10"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toBottomOf="@+id/imageView17"
+            app:layout_constraintEnd_toEndOf="@+id/playerdialogg"
+            app:layout_constraintTop_toBottomOf="@+id/playerdialogg" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

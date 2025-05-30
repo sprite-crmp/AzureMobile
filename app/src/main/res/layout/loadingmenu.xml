@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/edgar_loagin_kranin"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="#371F1F"
+	android:visibility="visible">
+
+	<FrameLayout
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:background="@drawable/loading_image"
+		android:visibility="visible" />
+
+	<ImageView
+		android:id="@id/lm_bg_1"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:alpha="0.0"
+		android:scaleType="fitXY"
+		android:src="@drawable/lm_bg_1"
+		android:visibility="visible" />
+
+	<ImageView
+		android:id="@id/lm_bg_2"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:alpha="0.0"
+		android:scaleType="fitXY"
+		android:src="@drawable/lm_bg_2"
+		android:visibility="visible" />
+
+	<ImageView
+		android:id="@id/lm_bg_3"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:alpha="0.0"
+		android:scaleType="fitXY"
+		android:src="@drawable/lm_bg_3" />
+
+	<ImageView
+		android:id="@id/lm_bg_4"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:alpha="0.0"
+		android:scaleType="fitXY"
+		android:src="@drawable/lm_bg_4" />
+
+	<ImageView
+		android:id="@id/lm_bg_5"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:alpha="0.0"
+		android:scaleType="fitXY"
+		android:src="@drawable/lm_bg_5" />
+
+	<ImageView
+		android:id="@id/lm_bg_6"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:alpha="0.0"
+		android:outlineSpotShadowColor="@color/white"
+		android:scaleType="fitXY"
+		android:src="@drawable/lm_bg_0" />
+
+	<androidx.constraintlayout.widget.ConstraintLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:visibility="visible">
+
+		<TextView
+			android:id="@+id/tv_br"
+			android:layout_width="507dp"
+			android:layout_height="122dp"
+			android:layout_marginStart="90dp"
+			android:layout_marginTop="90dp"
+			android:fontFamily="@font/montserrat_bold"
+			android:lineSpacingMultiplier="0.9"
+			android:paddingStart="-3dp"
+			android:text="Azure\nMobile"
+			android:textAllCaps="true"
+			android:textColor="@color/white"
+			android:textSize="50.0sp"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toTopOf="parent" />
+
+		<TextView
+			android:id="@+id/tv_play_black"
+			android:layout_width="85dp"
+			android:layout_height="33dp"
+			android:fontFamily="@font/montserrat_regular"
+			android:text="Исполни свою мечту"
+			android:textColor="@color/white"
+			android:textSize="12.0sp"
+			app:layout_constraintStart_toStartOf="@+id/tv_br"
+			app:layout_constraintTop_toBottomOf="@+id/tv_br" />
+
+		<ImageView
+			android:id="@+id/iv_smile"
+			android:layout_width="26dp"
+			android:layout_height="24dp"
+			android:layout_marginTop="5dp"
+			android:src="@drawable/ic_frac_info"
+			app:layout_constraintBottom_toBottomOf="@+id/tv_play_black"
+			app:layout_constraintStart_toEndOf="@+id/tv_play_black"
+			app:layout_constraintTop_toTopOf="@+id/tv_play_black"
+			app:layout_constraintVertical_bias="0.0"
+			app:srcCompat="@drawable/iv_smile" />
+
+	</androidx.constraintlayout.widget.ConstraintLayout>
+
+	<TextView
+		android:id="@id/lm_message"
+		android:layout_width="@dimen/_200sdp"
+		android:layout_height="wrap_content"
+		android:layout_gravity="bottom"
+		android:layout_marginStart="@dimen/_29sdp"
+		android:layout_marginBottom="@dimen/_17sdp"
+		android:fontFamily="@font/ttnorms_medium"
+		android:gravity="bottom"
+		android:text="Система инвентаря,с помощью которой вы можете менять любой скин, оружие, аксессуар и многое другое, можно открыть с помощью кнопки"
+		android:textColor="#ffffffff"
+		android:textSize="@dimen/_10sdp"
+		android:visibility="invisible" />
+
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_gravity="bottom"
+		android:layout_marginBottom="@dimen/_17sdp"
+		android:orientation="horizontal">
+
+		<TextView
+			android:id="@id/lm_status"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center_vertical"
+			android:layout_marginRight="@dimen/_15sdp"
+			android:layout_weight="1.0"
+			android:fontFamily="@font/ttnorms_medium"
+			android:gravity="right"
+			android:text="Загрузка игры..."
+			android:textColor="#ffffffff"
+			android:textSize="@dimen/_10sdp" />
+
+		<ImageView
+			android:id="@id/lm_candle_1"
+			android:layout_width="@dimen/_9sdp"
+			android:layout_height="@dimen/_23sdp"
+			android:layout_marginEnd="@dimen/_2sdp"
+			android:alpha="0.0"
+			android:src="@drawable/ic_lm_candle" />
+
+		<ImageView
+			android:id="@id/lm_candle_2"
+			android:layout_width="@dimen/_9sdp"
+			android:layout_height="@dimen/_23sdp"
+			android:layout_marginEnd="@dimen/_2sdp"
+			android:alpha="0.0"
+			android:src="@drawable/ic_lm_candle" />
+
+		<ImageView
+			android:id="@id/lm_candle_3"
+			android:layout_width="@dimen/_9sdp"
+			android:layout_height="@dimen/_23sdp"
+			android:layout_marginEnd="@dimen/_2sdp"
+			android:alpha="0.0"
+			android:src="@drawable/ic_lm_candle" />
+
+		<ImageView
+			android:id="@id/lm_candle_4"
+			android:layout_width="@dimen/_9sdp"
+			android:layout_height="@dimen/_23sdp"
+			android:layout_marginEnd="@dimen/_2sdp"
+			android:alpha="0.0"
+			android:src="@drawable/ic_lm_candle" />
+
+		<ImageView
+			android:id="@id/lm_candle_5"
+			android:layout_width="@dimen/_9sdp"
+			android:layout_height="@dimen/_23sdp"
+			android:layout_marginEnd="@dimen/_25sdp"
+			android:alpha="0.0"
+			android:src="@drawable/ic_lm_candle" />
+	</LinearLayout>
+</FrameLayout>

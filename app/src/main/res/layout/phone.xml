@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/phone"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="invisible">
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="128dp"
+        android:layout_height="272dp"
+        app:layout_constraintBottom_toBottomOf="@+id/constraintLayout3"
+        app:layout_constraintEnd_toEndOf="@+id/constraintLayout3"
+        app:layout_constraintStart_toStartOf="@+id/constraintLayout3"
+        app:layout_constraintTop_toTopOf="@+id/constraintLayout3"
+        app:srcCompat="@color/black" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="238dp"
+        android:layout_height="303dp"
+        android:layout_marginStart="230dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginBottom="10dp"
+        android:src="@drawable/phone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.699"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout3"
+        android:layout_width="134dp"
+        android:layout_height="267dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView4"
+        app:layout_constraintEnd_toEndOf="@+id/imageView4"
+        app:layout_constraintStart_toStartOf="@+id/imageView4"
+        app:layout_constraintTop_toTopOf="@+id/imageView4">
+
+        <ImageView
+            android:id="@+id/pontampon"
+            android:layout_width="86dp"
+            android:layout_height="2dp"
+            android:layout_marginBottom="1dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:srcCompat="@color/common_signin_btn_dark_text_default" />
+
+        <ImageView
+            android:id="@+id/imageView25"
+            android:layout_width="61dp"
+            android:layout_height="59dp"
+            android:layout_marginBottom="20dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/phonelogo" />
+
+        <ImageView
+            android:id="@+id/imageView20"
+            android:layout_width="23dp"
+            android:layout_height="15dp"
+            android:layout_marginEnd="5dp"
+            android:rotation="-90"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/batarea_tel" />
+
+        <ImageView
+            android:id="@+id/kart"
+            android:layout_width="40dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="18dp"
+            android:layout_marginBottom="30dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:srcCompat="@drawable/ic_hud_gps" />
+
+        <ImageView
+            android:id="@+id/pass"
+            android:layout_width="40dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="30dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:srcCompat="@drawable/pass_tel" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="26dp"
+            android:layout_height="12dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="2dp"
+            android:fontFamily="@font/montserrat_bold"
+            android:text="@string/_11_05"
+            android:textColor="@color/white"
+            android:textSize="8sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:fontFamily="@font/montserrat_bold"
+            android:text="GPS"
+            android:textColor="@color/white"
+            android:textSize="10dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/kart"
+            app:layout_constraintStart_toStartOf="@+id/kart"
+            app:layout_constraintTop_toBottomOf="@+id/kart" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="2dp"
+            android:layout_marginBottom="15dp"
+            android:fontFamily="@font/montserrat_bold"
+            android:text="Данные"
+            android:textColor="@color/white"
+            android:textSize="10dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/pass"
+            app:layout_constraintStart_toStartOf="@+id/pass"
+            app:layout_constraintTop_toBottomOf="@+id/pass" />
+
+        <ImageView
+            android:id="@+id/starline"
+            android:layout_width="43dp"
+            android:layout_height="33dp"
+            android:layout_marginBottom="30dp"
+            app:layout_constraintBottom_toTopOf="@+id/kart"
+            app:layout_constraintEnd_toEndOf="@+id/kart"
+            app:layout_constraintStart_toStartOf="@+id/kart"
+            app:srcCompat="@drawable/starline" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:fontFamily="@font/montserrat_bold"
+            android:text="StarLine"
+            android:textColor="@color/white"
+            android:textSize="9dp"
+            app:layout_constraintEnd_toEndOf="@+id/starline"
+            app:layout_constraintStart_toStartOf="@+id/starline"
+            app:layout_constraintTop_toBottomOf="@+id/starline" />
+
+        <ImageView
+            android:id="@+id/sber"
+            android:layout_width="40dp"
+            android:layout_height="30dp"
+            app:layout_constraintBottom_toBottomOf="@+id/starline"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/starline"
+            app:layout_constraintTop_toTopOf="@+id/starline"
+            app:srcCompat="@drawable/sber" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="1dp"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/montserrat_bold"
+            android:text="Банк"
+            android:textColor="@color/white"
+            android:textSize="9dp"
+            app:layout_constraintEnd_toEndOf="@+id/sber"
+            app:layout_constraintStart_toStartOf="@+id/sber"
+            app:layout_constraintTop_toBottomOf="@+id/sber" />
+
+        <FrameLayout
+            android:id="@+id/offtel"
+            android:layout_width="126dp"
+            android:layout_height="13dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent">
+
+        </FrameLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

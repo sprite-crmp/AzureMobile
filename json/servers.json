@@ -1,0 +1,22 @@
+[
+    {
+      "color": "008B8B",
+      "maxonline": 1000,
+      "name": "Azure Mobile #1",
+      "online": 59,
+      "recommend": true,
+      "host": "5.39.108.48",
+      "port": 1273,
+      "id": 1
+    },
+    {
+      "color": "808080",
+      "maxonline": 1000,
+      "name": "test",
+      "online": 0,
+      "recommend": false,
+      "host": "5.39.108.48",
+      "port": 1653,
+      "id": 4
+    }
+]

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@id/dialog"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_alignParentBottom="true"
+	android:layout_gravity="center"
+	android:background="@drawable/dialog_bg"
+	android:visibility="visible"
+	app:layout_constraintBottom_toBottomOf="parent"
+	app:layout_constraintEnd_toEndOf="parent"
+	app:layout_constraintStart_toStartOf="parent"
+	app:layout_constraintTop_toTopOf="parent">
+
+	<LinearLayout
+		android:id="@id/dialog_body"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginStart="@dimen/_14sdp"
+		android:layout_marginTop="@dimen/_9sdp"
+		android:layout_marginEnd="@dimen/_14sdp"
+		android:layout_marginBottom="@dimen/_14sdp"
+		android:maxHeight="@dimen/_234sdp"
+		android:orientation="vertical"
+		android:visibility="visible">
+
+		<TextView
+			android:id="@id/dialog_caption"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:fontFamily="@font/roboto_bold"
+			android:lines="1"
+			android:maxLines="1"
+			android:singleLine="true"
+			android:text="@string/dialog_old_caption"
+			android:textColor="#ffffffff"
+			android:textSize="@dimen/_10sdp" />
+
+		<androidx.constraintlayout.widget.ConstraintLayout
+			android:id="@id/dialog_text_layout"
+			android:layout_width="wrap_content"
+			android:layout_height="fill_parent"
+			android:layout_marginTop="@dimen/_7sdp"
+			android:visibility="gone">
+
+			<ScrollView
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:scrollbars="none"
+				app:layout_constraintBottom_toBottomOf="parent"
+				app:layout_constraintHeight_max="@dimen/_185sdp"
+				app:layout_constraintStart_toStartOf="parent"
+				app:layout_constraintTop_toTopOf="parent">
+
+				<LinearLayout
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:orientation="vertical">
+
+					<TextView
+						android:id="@id/dialog_text"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:fontFamily="@font/gilroy_semibold"
+						android:text="@string/dialog_old_text"
+						android:textColor="#ffffffff"
+						android:textSize="@dimen/_8sdp"
+						app:layout_constraintStart_toStartOf="parent"
+						app:layout_constraintTop_toTopOf="parent" />
+				</LinearLayout>
+			</ScrollView>
+		</androidx.constraintlayout.widget.ConstraintLayout>
+
+		<FrameLayout
+			android:id="@id/dialog_input_layout"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="@dimen/_7sdp"
+			android:background="@drawable/background_br_input"
+			android:visibility="visible">
+
+			<com.nvidia.devtech.CustomEditText
+				android:id="@id/dialog_input"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:background="@android:color/transparent"
+				android:fontFamily="@font/roboto_medium"
+				android:hint="@string/press_to_enter"
+				android:imeOptions="flagNoExtractUi"
+				android:inputType="textShortMessage"
+				android:lines="1"
+				android:maxLines="1"
+				android:paddingStart="@dimen/_7sdp"
+				android:paddingTop="@dimen/_6sdp"
+				android:paddingEnd="@dimen/_7sdp"
+				android:paddingBottom="@dimen/_6sdp"
+				android:singleLine="true"
+				android:textColor="#ffffffff"
+				android:textColorHint="#7affffff"
+				android:textSize="@dimen/_9sdp" />
+
+		</FrameLayout>
+
+		<LinearLayout
+			android:id="@id/dialog_list_layout"
+			android:layout_width="wrap_content"
+			android:layout_height="@dimen/_185sdp"
+			android:layout_marginTop="@dimen/_7sdp"
+			android:orientation="vertical"
+			android:visibility="gone">
+
+			<LinearLayout
+				android:id="@id/dialog_tablist_row"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:orientation="horizontal"
+				android:paddingStart="@dimen/_10sdp"
+				android:paddingEnd="@dimen/_19sdp"
+				android:paddingBottom="@dimen/_3sdp"
+				android:visibility="visible">
+
+				<TextView
+					android:id="@id/dialog_field1"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:fontFamily="@font/roboto_medium"
+					android:lines="1"
+					android:maxLines="1"
+					android:paddingEnd="@dimen/_6sdp"
+					android:singleLine="true"
+					android:text="@string/dialog_old_field1"
+					android:textColor="@color/dialog_headers_color"
+					android:textSize="@dimen/_9sdp" />
+
+				<TextView
+					android:id="@id/dialog_field2"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:fontFamily="@font/roboto_medium"
+					android:lines="1"
+					android:maxLines="1"
+					android:paddingEnd="@dimen/_6sdp"
+					android:singleLine="true"
+					android:text="@string/dialog_old_field2"
+					android:textColor="@color/dialog_headers_color"
+					android:textSize="@dimen/_9sdp" />
+
+				<TextView
+					android:id="@id/dialog_field3"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:fontFamily="@font/roboto_medium"
+					android:lines="1"
+					android:maxLines="1"
+					android:paddingEnd="@dimen/_6sdp"
+					android:singleLine="true"
+					android:text="@string/dialog_old_field2"
+					android:textColor="@color/dialog_headers_color"
+					android:textSize="@dimen/_9sdp" />
+
+				<TextView
+					android:id="@id/dialog_field4"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:fontFamily="@font/roboto_medium"
+					android:lines="1"
+					android:maxLines="1"
+					android:paddingEnd="@dimen/_6sdp"
+					android:singleLine="true"
+					android:text="@string/dialog_old_field4"
+					android:textColor="@color/dialog_headers_color"
+					android:textSize="@dimen/_9sdp" />
+			</LinearLayout>
+
+			<FrameLayout
+				android:id="@id/dialog_list"
+				android:layout_width="wrap_content"
+				android:layout_height="fill_parent"
+				android:background="@drawable/ic_dialog_list_bg_old">
+
+				<ru.azure.games.gui.util.CustomRecyclerView
+					android:id="@id/dialog_list_recycler"
+					android:layout_width="wrap_content"
+					android:layout_height="fill_parent"
+					android:layout_marginStart="@dimen/_5sdp"
+					android:layout_marginTop="@dimen/_5sdp"
+					android:layout_marginEnd="@dimen/_5sdp"
+					android:layout_marginBottom="@dimen/_5sdp"
+					android:fadeScrollbars="false"
+					android:scrollbarAlwaysDrawVerticalTrack="true"
+					android:scrollbarSize="@dimen/_9sdp"
+					android:scrollbarThumbVertical="@drawable/ic_tab_scrollbar_thumb_old"
+					android:scrollbarTrackVertical="@drawable/ic_tab_scrollbar_track_old"
+					android:scrollbars="vertical"
+					android:verticalScrollbarPosition="right"
+					android:visibility="visible" />
+			</FrameLayout>
+		</LinearLayout>
+
+		<LinearLayout
+			android:id="@id/dialog_buttons"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center_horizontal"
+			android:layout_marginStart="@dimen/_7sdp"
+			android:layout_marginTop="@dimen/_7sdp"
+			android:layout_marginEnd="@dimen/_7sdp"
+			android:orientation="horizontal"
+			android:visibility="visible"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toBottomOf="@id/dialog_caption"
+			app:layout_constraintVertical_bias="1.0">
+
+			<FrameLayout
+				android:id="@id/button_positive"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:background="@drawable/ic_dialog_button_positive_old"
+				app:layout_constraintBottom_toBottomOf="parent"
+				app:layout_constraintStart_toStartOf="parent"
+				app:layout_constraintTop_toTopOf="parent">
+
+				<TextView
+					android:id="@id/button_positive_text"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="@dimen/_14sdp"
+					android:layout_marginTop="@dimen/_5sdp"
+					android:layout_marginEnd="@dimen/_14sdp"
+					android:layout_marginBottom="@dimen/_5sdp"
+					android:fontFamily="@font/montserrat_bold"
+					android:lines="1"
+					android:maxLines="1"
+					android:singleLine="true"
+					android:text="@string/dialog_old_enter"
+					android:textColor="#ffffffff"
+					android:textSize="@dimen/_9sdp"
+					app:layout_constraintBottom_toBottomOf="parent"
+					app:layout_constraintEnd_toEndOf="parent"
+					app:layout_constraintStart_toStartOf="parent"
+					app:layout_constraintTop_toTopOf="parent" />
+			</FrameLayout>
+
+			<FrameLayout
+				android:id="@id/button_negative"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginStart="@dimen/_5sdp"
+				android:background="@drawable/ic_dialog_button_negative_old"
+				android:visibility="visible"
+				app:layout_constraintBottom_toBottomOf="parent"
+				app:layout_constraintEnd_toEndOf="parent"
+				app:layout_constraintStart_toEndOf="@id/button_positive"
+				app:layout_constraintTop_toTopOf="parent">
+
+				<TextView
+					android:id="@id/button_negative_text"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="@dimen/_14sdp"
+					android:layout_marginTop="@dimen/_5sdp"
+					android:layout_marginEnd="@dimen/_14sdp"
+					android:layout_marginBottom="@dimen/_5sdp"
+					android:fontFamily="@font/montserrat_bold"
+					android:lines="1"
+					android:maxLines="1"
+					android:singleLine="true"
+					android:text="@string/dialog_old_cancel"
+					android:textColor="#ffffffff"
+					android:textSize="@dimen/_9sdp"
+					app:layout_constraintBottom_toBottomOf="parent"
+					app:layout_constraintEnd_toEndOf="parent"
+					app:layout_constraintStart_toStartOf="parent"
+					app:layout_constraintTop_toTopOf="parent" />
+			</FrameLayout>
+		</LinearLayout>
+	</LinearLayout>
+
+	<androidx.constraintlayout.widget.ConstraintLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent">
+
+	</androidx.constraintlayout.widget.ConstraintLayout>
+
+	<androidx.constraintlayout.widget.ConstraintLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent">
+
+	</androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

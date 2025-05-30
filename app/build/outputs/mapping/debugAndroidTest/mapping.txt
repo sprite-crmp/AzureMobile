@@ -1,0 +1,12 @@
+# compiler: R8
+# compiler_version: 4.0.48
+# min_api: 21
+# common_typos_disable
+# {"id":"com.android.tools.r8.mapping","version":"2.1"}
+# pg_map_id: 97043d3
+# pg_map_hash: SHA-256 97043d3b804b95a286ca1d867135e5c0ab4103ec3b7d84c2e350b7b4b9df954f
+ru.azure.games.test.BuildConfig -> ru.azure.games.test.BuildConfig:
+    7:7:void <clinit>() -> <clinit>
+    6:6:void <init>() -> <init>
+ru.azure.games.test.R -> ru.azure.games.test.R:
+    0:0:void <init>() -> <init>

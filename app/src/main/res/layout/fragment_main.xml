@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:clickable="true">
+
+	<VideoView
+		android:id="@+id/video_menu_id"
+		android:layout_width="966dp"
+		android:layout_height="534dp"
+		app:layout_constraintBottom_toBottomOf="@+id/links_button"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent"
+		tools:visibility="invisible" />
+
+	<androidx.constraintlayout.widget.Guideline
+		android:id="@id/guideline20"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal"
+		app:layout_constraintGuide_percent="0.05" />
+
+	<LinearLayout
+		android:id="@id/header_layout"
+		android:layout_width="773dp"
+		android:layout_height="36dp"
+		android:layout_marginStart="40dp"
+		android:layout_marginEnd="40dp"
+		android:orientation="horizontal"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="@id/guideline20">
+
+		<LinearLayout
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:layout_weight="1.0"
+			android:orientation="vertical">
+
+			<TextView
+				android:id="@id/story_caption_bottom"
+				android:layout_width="fill_parent"
+				android:layout_height="match_parent"
+				android:fontFamily="@font/ttnorms_bold"
+				android:text="Приветствуем  👋"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_16sdp" />
+		</LinearLayout>
+
+		<ImageView
+			android:id="@id/btn_settings"
+			android:layout_width="32dp"
+			android:layout_height="39dp"
+			android:layout_gravity="center_vertical"
+			android:layout_marginEnd="@dimen/_14sdp"
+			app:srcCompat="@drawable/ic_launcher_settings" />
+
+	</LinearLayout>
+
+	<LinearLayout
+		android:id="@id/story_layout"
+		android:layout_width="772dp"
+		android:layout_height="108dp"
+		android:orientation="vertical"
+		app:layout_constraintDimensionRatio=""
+		app:layout_constraintStart_toStartOf="@+id/header_layout"
+		app:layout_constraintTop_toBottomOf="@+id/header_layout">
+
+		<TextView
+			android:id="@id/textView15"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:fontFamily="@font/ttnorms_light"
+			android:text="Истории и новости"
+			android:textColor="#ffffffff"
+			android:textSize="@dimen/_9sdp" />
+
+		<androidx.recyclerview.widget.RecyclerView
+			android:id="@id/story_recycler"
+			android:layout_width="270dp"
+			android:layout_height="fill_parent"
+			android:layout_marginTop="@dimen/_9sdp" />
+	</LinearLayout>
+
+	<androidx.constraintlayout.widget.ConstraintLayout
+		android:id="@id/server_layout"
+		android:layout_width="270dp"
+		android:layout_height="99dp"
+		android:layout_marginTop="10dp"
+		android:orientation="vertical"
+		app:layout_constraintStart_toStartOf="@+id/story_layout"
+		app:layout_constraintTop_toBottomOf="@id/story_layout">
+
+		<TextView
+			android:id="@id/textView19"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:fontFamily="@font/ttnorms_regular"
+			android:text="Ваш сервер"
+			android:textColor="#ffffffff"
+			android:textSize="14sp"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toTopOf="parent" />
+
+		<androidx.constraintlayout.widget.ConstraintLayout
+			android:id="@id/select_server_layout"
+			android:layout_width="268dp"
+			android:layout_height="68dp"
+			android:layout_marginTop="10dp"
+			app:layout_constraintDimensionRatio="791:186"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toBottomOf="@id/textView19">
+
+			<ImageView
+				android:id="@id/server_background"
+				android:layout_width="0.0dip"
+				android:layout_height="0.0dip"
+				android:scaleType="fitXY"
+				app:layout_constraintBottom_toBottomOf="parent"
+				app:layout_constraintEnd_toEndOf="parent"
+				app:layout_constraintStart_toStartOf="parent"
+				app:layout_constraintTop_toTopOf="parent"
+				app:srcCompat="@drawable/auth_bg_vk" />
+
+			<LinearLayout
+				android:id="@id/select_layout"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginEnd="5dp"
+				android:orientation="horizontal"
+				app:layout_constraintBottom_toBottomOf="parent"
+				app:layout_constraintEnd_toEndOf="parent"
+				app:layout_constraintHorizontal_bias="0.45"
+				app:layout_constraintStart_toStartOf="parent"
+				app:layout_constraintTop_toTopOf="parent">
+
+				<ImageView
+					android:id="@id/imageView23"
+					android:layout_width="@dimen/_18sdp"
+					android:layout_height="@dimen/_18sdp"
+					android:layout_gravity="center_vertical"
+					android:layout_marginEnd="@dimen/_8sdp"
+					app:srcCompat="@drawable/ic_server" />
+
+				<TextView
+					android:id="@id/textView33"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_gravity="center_vertical"
+					android:fontFamily="@font/ttnorms_medium"
+					android:text="Выбрать сервер"
+					android:textColor="#ffffffff"
+					android:textSize="@dimen/_11sdp" />
+			</LinearLayout>
+
+			<androidx.constraintlayout.widget.ConstraintLayout
+				android:id="@id/serverinfo_layout"
+				android:layout_width="fill_parent"
+				android:layout_height="fill_parent"
+				android:visibility="invisible"
+				app:layout_constraintBottom_toBottomOf="@+id/server_background"
+				app:layout_constraintEnd_toEndOf="parent"
+				app:layout_constraintStart_toStartOf="parent"
+				app:layout_constraintTop_toTopOf="parent">
+
+				<com.mikhaellopez.circularprogressbar.CircularProgressBar
+					android:id="@id/serverinfo_online_bar"
+					android:layout_width="@dimen/_26sdp"
+					android:layout_height="@dimen/_26sdp"
+					android:layout_marginStart="@dimen/_18sdp"
+					app:cpb_progress_max="1000"
+					app:cpb_progressbar_width="@dimen/_2sdp"
+					app:layout_constraintBottom_toBottomOf="parent"
+					app:layout_constraintStart_toStartOf="parent"
+					app:layout_constraintTop_toTopOf="parent" />
+
+				<LinearLayout
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:orientation="vertical"
+					app:layout_constraintBottom_toBottomOf="@id/serverinfo_online_bar"
+					app:layout_constraintEnd_toEndOf="@id/serverinfo_online_bar"
+					app:layout_constraintStart_toStartOf="@id/serverinfo_online_bar"
+					app:layout_constraintTop_toTopOf="@id/serverinfo_online_bar">
+
+					<ImageView
+						android:id="@id/imageView11"
+						android:layout_width="@dimen/_5sdp"
+						android:layout_height="@dimen/_5sdp"
+						android:layout_gravity="center"
+						android:scaleType="fitXY"
+						app:srcCompat="@drawable/ic_launcher_user" />
+
+				</LinearLayout>
+
+				<LinearLayout
+					android:layout_width="0.0dip"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="@dimen/_10sdp"
+					android:layout_marginEnd="@dimen/_46sdp"
+					android:orientation="vertical"
+					app:layout_constraintBottom_toBottomOf="@id/serverinfo_online_bar"
+					app:layout_constraintEnd_toEndOf="parent"
+					app:layout_constraintStart_toEndOf="@id/serverinfo_online_bar"
+					app:layout_constraintTop_toTopOf="@id/serverinfo_online_bar">
+
+					<TextView
+						android:id="@id/serverinfo_name"
+						android:layout_width="fill_parent"
+						android:layout_height="wrap_content"
+						android:layout_weight="1.0"
+						android:fontFamily="@font/ttnorms_bold"
+						android:maxLines="1"
+						android:text="Azure Mobile №1"
+						android:textColor="#ffffffff"
+						android:textSize="@dimen/_10sdp"
+						app:autoSizeMaxTextSize="@dimen/_10sdp"
+						app:autoSizeMinTextSize="@dimen/_3sdp"
+						app:autoSizeTextType="uniform" />
+
+					<androidx.cardview.widget.CardView
+						android:id="@id/serverinfo_person_card"
+						android:layout_width="wrap_content"
+						android:layout_height="@dimen/_10sdp"
+						android:layout_gravity="bottom"
+						android:layout_marginTop="@dimen/_4sdp"
+						app:cardBackgroundColor="#99259223"
+						app:cardCornerRadius="@dimen/_2sdp"
+						app:cardElevation="0.0dip"
+						app:cardMaxElevation="0.0dip"
+						app:cardPreventCornerOverlap="false"
+						app:cardUseCompatPadding="false">
+
+						<LinearLayout
+							android:layout_width="wrap_content"
+							android:layout_height="fill_parent"
+							android:layout_weight="1.0"
+							android:orientation="horizontal"
+							android:paddingStart="@dimen/_4sdp"
+							android:paddingEnd="@dimen/_4sdp">
+
+							<TextView
+								android:id="@id/serverinfo_person_text"
+								android:layout_width="wrap_content"
+								android:layout_height="fill_parent"
+								android:fontFamily="@font/ttnorms_light"
+								android:gravity="center_vertical"
+								android:maxLines="1"
+								android:text="Персонаж: "
+								android:textColor="#ffffffff"
+								android:textSize="@dimen/_6sdp"
+								app:autoSizeMaxTextSize="@dimen/_6sdp"
+								app:autoSizeMinTextSize="@dimen/_3sdp"
+								app:autoSizeTextType="uniform" />
+
+							<TextView
+								android:id="@id/serverinfo_person_name"
+								android:layout_width="wrap_content"
+								android:layout_height="fill_parent"
+								android:fontFamily="@font/ttnorms_medium"
+								android:gravity="center_vertical"
+								android:maxLines="1"
+								android:text="Kirill_Zikalov"
+								android:textColor="#ffffffff"
+								android:textSize="@dimen/_6sdp"
+								app:autoSizeMaxTextSize="@dimen/_6sdp"
+								app:autoSizeMinTextSize="@dimen/_3sdp"
+								app:autoSizeTextType="uniform" />
+						</LinearLayout>
+					</androidx.cardview.widget.CardView>
+				</LinearLayout>
+			</androidx.constraintlayout.widget.ConstraintLayout>
+
+			<ImageView
+				android:id="@id/imageView26"
+				android:layout_width="@dimen/_16sdp"
+				android:layout_height="@dimen/_7sdp"
+				android:layout_marginEnd="40dp"
+				android:scaleType="fitXY"
+				app:layout_constraintBottom_toBottomOf="parent"
+				app:layout_constraintEnd_toEndOf="parent"
+				app:layout_constraintTop_toTopOf="parent"
+				app:srcCompat="@drawable/ic_launcher_arrow" />
+		</androidx.constraintlayout.widget.ConstraintLayout>
+	</androidx.constraintlayout.widget.ConstraintLayout>
+
+	<androidx.constraintlayout.widget.ConstraintLayout
+		android:id="@id/links_button"
+		android:layout_width="778dp"
+		android:layout_height="111dp"
+		android:background="@drawable/_2sdp_divider"
+		android:scaleType="fitXY"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintEnd_toEndOf="@+id/story_layout"
+		app:layout_constraintStart_toStartOf="@+id/server_layout"
+		app:layout_constraintWidth_percent="0.732407">
+
+		<ImageView
+			android:id="@+id/btn_forum"
+			android:layout_width="30dp"
+			android:layout_height="30dp"
+			android:layout_marginStart="40dp"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toTopOf="parent"
+			app:srcCompat="@drawable/ic_launcher_faq" />
+
+		<ImageView
+			android:id="@+id/btn_vk"
+			android:layout_width="30dp"
+			android:layout_height="30dp"
+			android:layout_marginStart="20dp"
+			app:layout_constraintBottom_toBottomOf="@+id/btn_telegram"
+			app:layout_constraintStart_toEndOf="@+id/btn_telegram"
+			app:layout_constraintTop_toTopOf="@+id/btn_telegram"
+			app:srcCompat="@drawable/ic_social_vk" />
+
+		<ImageView
+			android:id="@+id/btn_telegram"
+			android:layout_width="30dp"
+			android:layout_height="30dp"
+			android:layout_marginStart="20dp"
+			app:layout_constraintBottom_toBottomOf="@+id/btn_forum"
+			app:layout_constraintStart_toEndOf="@+id/btn_forum"
+			app:layout_constraintTop_toTopOf="@+id/btn_forum"
+			app:srcCompat="@drawable/ic_social_telegram" />
+
+		<ImageView
+			android:id="@+id/btn_discord"
+			android:layout_width="60dp"
+			android:layout_height="60dp"
+			android:layout_marginStart="5dp"
+			app:layout_constraintBottom_toBottomOf="@+id/btn_vk"
+			app:layout_constraintStart_toEndOf="@+id/btn_vk"
+			app:layout_constraintTop_toTopOf="@+id/btn_vk"
+			app:srcCompat="@drawable/ic_discord_azure" />
+
+		<ImageView
+			android:id="@+id/btn_play"
+			android:layout_width="136dp"
+			android:layout_height="53dp"
+			android:layout_marginEnd="20dp"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintTop_toTopOf="parent"
+			app:layout_constraintVertical_bias="0.533"
+			app:srcCompat="@drawable/ic_dialog_button_positive_old" />
+
+		<TextView
+			android:id="@+id/textView4"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:fontFamily="@font/montserrat_bold"
+			android:text="Играть"
+			android:textColor="@color/white"
+			android:textSize="@dimen/_14sdp"
+			app:layout_constraintBottom_toBottomOf="@+id/btn_play"
+			app:layout_constraintEnd_toEndOf="@+id/btn_play"
+			app:layout_constraintHorizontal_bias="0.508"
+			app:layout_constraintStart_toStartOf="@+id/btn_play"
+			app:layout_constraintTop_toTopOf="@+id/btn_play" />
+
+		<androidx.constraintlayout.widget.ConstraintLayout
+			android:layout_width="match_parent"
+			android:layout_height="match_parent">
+
+			<androidx.constraintlayout.widget.ConstraintLayout
+				android:layout_width="match_parent"
+				android:layout_height="match_parent">
+
+			</androidx.constraintlayout.widget.ConstraintLayout>
+		</androidx.constraintlayout.widget.ConstraintLayout>
+
+		<androidx.constraintlayout.widget.ConstraintLayout
+			android:layout_width="match_parent"
+			android:layout_height="match_parent">
+
+		</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+	</androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

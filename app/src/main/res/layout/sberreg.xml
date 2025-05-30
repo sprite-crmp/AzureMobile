@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/sberreg"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:visibility="invisible">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/sberstol">
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="479dp"
+            android:layout_height="307dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView8"
+            app:srcCompat="@drawable/sberreg" />
+
+        <ImageView
+            android:id="@+id/imageView14"
+            android:layout_width="46dp"
+            android:layout_height="43dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="390dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@android:drawable/ic_menu_info_details" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="427dp"
+            android:layout_height="21dp"
+            android:layout_marginStart="5dp"
+            android:fontFamily="@font/montserrat_bold"
+            android:shadowColor="@color/black"
+            android:text="Нажмите на подпись чтобы подписать документ"
+            android:textColor="@color/common_action_bar_splitter"
+            android:textSize="15dp"
+            app:layout_constraintBottom_toBottomOf="@+id/imageView14"
+            app:layout_constraintStart_toEndOf="@+id/imageView14"
+            app:layout_constraintTop_toTopOf="@+id/imageView14" />
+
+        <FrameLayout
+            android:id="@+id/sberclose"
+            android:layout_width="104dp"
+            android:layout_height="36dp"
+            android:layout_marginTop="20dp"
+            app:layout_constraintBottom_toBottomOf="@+id/imageView7"
+            app:layout_constraintEnd_toEndOf="@+id/imageView7"
+            app:layout_constraintHorizontal_bias="0.613"
+            app:layout_constraintStart_toStartOf="@+id/imageView7"
+            app:layout_constraintTop_toTopOf="@+id/imageView7" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

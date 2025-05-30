@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/speedometr_matrp_edgar"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_gravity="bottom|center"
+	android:orientation="horizontal"
+	android:translationY="@dimen/_minus5sdp"
+	android:visibility="visible">
+
+	<androidx.constraintlayout.widget.ConstraintLayout
+		android:id="@+id/carmenu"
+		android:layout_width="169dp"
+		android:layout_height="match_parent"
+		android:visibility="gone">
+
+		<androidx.constraintlayout.widget.ConstraintLayout
+			android:layout_width="169dp"
+			android:layout_height="75dp"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toStartOf="parent">
+
+			<ImageButton
+				android:id="@+id/btn_engine"
+				android:layout_width="45dp"
+				android:layout_height="36dp"
+				android:layout_marginStart="10dp"
+				android:layout_marginBottom="12dp"
+				android:background="@drawable/speed_fuel_bg"
+				android:src="@drawable/ic_speed_in_engine"
+				app:layout_constraintBottom_toBottomOf="parent"
+				app:layout_constraintStart_toStartOf="parent" />
+
+			<ImageButton
+				android:id="@+id/btn_light"
+				android:layout_width="45dp"
+				android:layout_height="36dp"
+				android:layout_marginEnd="10dp"
+				android:layout_marginBottom="12dp"
+				android:background="@drawable/speed_fuel_bg"
+				android:src="@drawable/ic_speed_in_light"
+				app:layout_constraintBottom_toBottomOf="parent"
+				app:layout_constraintEnd_toEndOf="parent" />
+
+			<ImageButton
+				android:id="@+id/btn_lock"
+				android:layout_width="45dp"
+				android:layout_height="36dp"
+				android:layout_marginBottom="12dp"
+				android:background="@drawable/speed_fuel_bg"
+				android:src="@drawable/ic_speed_in_key"
+				app:layout_constraintBottom_toBottomOf="parent"
+				app:layout_constraintEnd_toStartOf="@+id/btn_light"
+				app:layout_constraintStart_toEndOf="@+id/btn_engine" />
+		</androidx.constraintlayout.widget.ConstraintLayout>
+	</androidx.constraintlayout.widget.ConstraintLayout>
+
+	<androidx.constraintlayout.widget.ConstraintLayout
+		android:layout_width="321dp"
+		android:layout_height="125dp">
+
+		<androidx.constraintlayout.widget.ConstraintLayout
+			android:id="@+id/btn_speedmenu"
+			android:layout_width="84dp"
+			android:layout_height="74dp"
+			android:layout_marginStart="20dp"
+			android:layout_marginBottom="8dp"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintStart_toStartOf="parent">
+
+			<ImageView
+				android:id="@+id/imageView44"
+				android:layout_width="84dp"
+				android:layout_height="10dp"
+				app:layout_constraintEnd_toEndOf="parent"
+				app:layout_constraintStart_toStartOf="parent"
+				app:layout_constraintTop_toBottomOf="@+id/speed_text"
+				app:srcCompat="@drawable/speedlinia" />
+
+			<ImageView
+				android:layout_width="43dp"
+				android:layout_height="10dp"
+				android:layout_marginTop="10dp"
+				app:layout_constraintEnd_toEndOf="@+id/imageView44"
+				app:layout_constraintStart_toStartOf="@+id/imageView44"
+				app:layout_constraintTop_toBottomOf="@+id/imageView44"
+				app:srcCompat="@drawable/speedmenu" />
+
+			<TextView
+				android:id="@+id/speed_text"
+				android:layout_width="84dp"
+				android:layout_height="33dp"
+				android:fontFamily="@font/montserrat_bolditalic"
+				android:gravity="center"
+				android:text="150"
+				android:textColor="@color/white"
+				android:textSize="24sp"
+				app:layout_constraintEnd_toEndOf="parent"
+				app:layout_constraintStart_toStartOf="parent"
+				app:layout_constraintTop_toTopOf="parent" />
+
+		</androidx.constraintlayout.widget.ConstraintLayout>
+
+		<ImageView
+			android:id="@+id/imageView54"
+			android:layout_width="118dp"
+			android:layout_height="26dp"
+			android:rotation="-2"
+			app:layout_constraintBottom_toTopOf="@+id/imageView53"
+			app:layout_constraintStart_toStartOf="@+id/imageView53"
+			app:srcCompat="@drawable/speedhpbar" />
+
+		<ProgressBar
+			android:id="@+id/hpbar"
+			style="?android:attr/progressBarStyleHorizontal"
+			android:layout_width="116dp"
+			android:layout_height="15dp"
+			android:max="100"
+			android:progress="20"
+			android:progressDrawable="@drawable/speedbarxml"
+			app:layout_constraintBottom_toBottomOf="@+id/imageView54"
+			app:layout_constraintEnd_toEndOf="@+id/imageView54"
+			app:layout_constraintStart_toStartOf="@+id/imageView54"
+			app:layout_constraintTop_toTopOf="@+id/imageView54" />
+
+		<ImageView
+			android:id="@+id/imageView53"
+			android:layout_width="133dp"
+			android:layout_height="36dp"
+			android:layout_marginStart="30dp"
+			android:rotation="-2"
+			app:layout_constraintBottom_toBottomOf="@+id/btn_speedmenu"
+			app:layout_constraintStart_toEndOf="@+id/btn_speedmenu"
+			app:srcCompat="@drawable/speedhpbar" />
+
+		<ProgressBar
+			android:id="@+id/fuelbar"
+			style="?android:attr/progressBarStyleHorizontal"
+			android:layout_width="131dp"
+			android:layout_height="17dp"
+			android:max="100"
+			android:progress="40"
+			android:progressDrawable="@drawable/speedbarxml"
+			app:layout_constraintBottom_toBottomOf="@+id/imageView53"
+			app:layout_constraintEnd_toEndOf="@+id/imageView53"
+			app:layout_constraintStart_toStartOf="@+id/imageView53"
+			app:layout_constraintTop_toTopOf="@+id/imageView53" />
+
+		<ImageView
+			android:id="@+id/imageView55"
+			android:layout_width="12dp"
+			android:layout_height="11dp"
+			android:layout_marginStart="5dp"
+			app:layout_constraintBottom_toBottomOf="@+id/hpbar"
+			app:layout_constraintStart_toStartOf="@+id/hpbar"
+			app:layout_constraintTop_toTopOf="@+id/hpbar"
+			app:srcCompat="@drawable/speedsedan" />
+
+		<ImageView
+			android:id="@+id/imageView56"
+			android:layout_width="11dp"
+			android:layout_height="10dp"
+			android:layout_marginStart="6dp"
+			app:layout_constraintBottom_toBottomOf="@+id/fuelbar"
+			app:layout_constraintStart_toStartOf="@+id/fuelbar"
+			app:layout_constraintTop_toTopOf="@+id/fuelbar"
+			app:srcCompat="@drawable/speedfuel" />
+
+	</androidx.constraintlayout.widget.ConstraintLayout>
+
+	<FrameLayout
+		android:id="@id/turn_left"
+		android:layout_width="@dimen/_44sdp"
+		android:layout_height="@dimen/_27sdp"
+		android:layout_gravity="bottom"
+		android:layout_marginBottom="@dimen/_29sdp"
+		android:visibility="gone">
+
+		<ImageView
+			android:id="@id/turn_left_bg"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			app:srcCompat="@drawable/speed_turn_left_bg" />
+
+		<ImageView
+			android:layout_width="@dimen/_19sdp"
+			android:layout_height="@dimen/_19sdp"
+			android:layout_gravity="center"
+			android:layout_marginEnd="@dimen/_2sdp"
+			app:srcCompat="@drawable/ic_turn_left" />
+	</FrameLayout>
+
+	<FrameLayout
+		android:id="@id/fuel_layout"
+		android:layout_width="@dimen/_33sdp"
+		android:layout_height="@dimen/_27sdp"
+		android:layout_gravity="bottom"
+		android:layout_marginBottom="@dimen/_29sdp"
+		android:visibility="gone">
+
+		<ImageView
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			app:srcCompat="@drawable/speed_fuel_bg" />
+
+		<LinearLayout
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"
+			android:orientation="vertical">
+
+			<ImageView
+				android:id="@id/fuel_image"
+				android:layout_width="@dimen/_9sdp"
+				android:layout_height="@dimen/_9sdp"
+				android:layout_gravity="center_horizontal"
+				app:srcCompat="@drawable/ic_speed_fuel" />
+
+			<TextView
+				android:id="@id/fuel_text"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_horizontal"
+				android:layout_marginTop="@dimen/_1sdp"
+				android:fontFamily="@font/ttnorms_extrabold"
+				android:text="100"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_5sdp" />
+		</LinearLayout>
+	</FrameLayout>
+
+	<FrameLayout
+		android:id="@id/speed_layout"
+		android:layout_width="@dimen/_92sdp"
+		android:layout_height="@dimen/_92sdp"
+		android:layout_marginStart="@dimen/_5sdp"
+		android:layout_marginEnd="@dimen/_5sdp"
+		android:visibility="gone">
+
+		<ImageView
+			android:id="@id/speed_bg"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:layout_margin="@dimen/_2sdp"
+			app:srcCompat="@drawable/speed_bg" />
+
+		<com.mikhaellopez.circularprogressbar.CircularProgressBar
+			android:id="@id/speed_progress"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:visibility="visible"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toStartOf="parent" />
+
+		<FrameLayout
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent">
+
+			<TextView
+				android:id="@id/speed_0"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginStart="@dimen/_11sdp"
+				android:layout_marginTop="@dimen/_57sdp"
+				android:alpha="0.3"
+				android:fontFamily="@font/ttnorms_medium"
+				android:text="0"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_5sdp" />
+
+			<TextView
+				android:id="@id/speed_1"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginStart="@dimen/_7sdp"
+				android:layout_marginTop="@dimen/_43sdp"
+				android:alpha="0.3"
+				android:fontFamily="@font/ttnorms_medium"
+				android:text="20"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_5sdp" />
+
+			<TextView
+				android:id="@id/speed_2"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginStart="@dimen/_10sdp"
+				android:layout_marginTop="@dimen/_28sdp"
+				android:alpha="0.3"
+				android:fontFamily="@font/ttnorms_medium"
+				android:text="40"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_5sdp" />
+
+			<TextView
+				android:id="@id/speed_3"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginStart="@dimen/_18sdp"
+				android:layout_marginTop="@dimen/_17sdp"
+				android:alpha="0.3"
+				android:fontFamily="@font/ttnorms_medium"
+				android:text="60"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_5sdp" />
+
+			<TextView
+				android:id="@id/speed_4"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginStart="@dimen/_28sdp"
+				android:layout_marginTop="@dimen/_9sdp"
+				android:alpha="0.3"
+				android:fontFamily="@font/ttnorms_medium"
+				android:text="80"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_5sdp" />
+
+			<TextView
+				android:id="@id/speed_5"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_horizontal"
+				android:layout_marginTop="@dimen/_5sdp"
+				android:alpha="0.3"
+				android:fontFamily="@font/ttnorms_medium"
+				android:text="100"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_5sdp" />
+
+			<TextView
+				android:id="@id/speed_6"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="end"
+				android:layout_marginTop="@dimen/_9sdp"
+				android:layout_marginEnd="@dimen/_28sdp"
+				android:alpha="0.3"
+				android:fontFamily="@font/ttnorms_medium"
+				android:text="120"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_5sdp" />
+
+			<TextView
+				android:id="@id/speed_7"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="end"
+				android:layout_marginTop="@dimen/_17sdp"
+				android:layout_marginEnd="@dimen/_18sdp"
+				android:alpha="0.3"
+				android:fontFamily="@font/ttnorms_medium"
+				android:text="140"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_5sdp" />
+
+			<TextView
+				android:id="@id/speed_8"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="end"
+				android:layout_marginTop="@dimen/_28sdp"
+				android:layout_marginEnd="@dimen/_10sdp"
+				android:alpha="0.3"
+				android:fontFamily="@font/ttnorms_medium"
+				android:text="160"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_5sdp" />
+
+			<TextView
+				android:id="@id/speed_9"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="end"
+				android:layout_marginTop="@dimen/_43sdp"
+				android:layout_marginEnd="@dimen/_7sdp"
+				android:alpha="0.3"
+				android:fontFamily="@font/ttnorms_medium"
+				android:text="180"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_5sdp" />
+
+			<TextView
+				android:id="@id/speed_10"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="end"
+				android:layout_marginTop="@dimen/_57sdp"
+				android:layout_marginEnd="@dimen/_11sdp"
+				android:alpha="0.3"
+				android:fontFamily="@font/ttnorms_medium"
+				android:text="200"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_5sdp" />
+		</FrameLayout>
+
+		<LinearLayout
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center_horizontal"
+			android:layout_marginTop="@dimen/_20sdp"
+			android:orientation="vertical">
+
+			<TextView
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_horizontal"
+				android:fontFamily="@font/ttnorms_bold"
+				android:includeFontPadding="false"
+				android:text="98"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_18sdp" />
+
+			<TextView
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_horizontal"
+				android:fontFamily="@font/ttnorms_medium"
+				android:text="@string/speedometer_km"
+				android:textColor="#4dffffff"
+				android:textSize="@dimen/_5sdp" />
+
+			<FrameLayout
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_horizontal"
+				android:layout_marginTop="@dimen/_3sdp"
+				android:background="@drawable/speed_mileage_bg"
+				android:paddingStart="@dimen/_3sdp"
+				android:paddingTop="@dimen/_1sdp"
+				android:paddingEnd="@dimen/_3sdp"
+				android:paddingBottom="@dimen/_1sdp">
+
+				<TextView
+					android:id="@id/mileage"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:fontFamily="@font/ttnorms_medium"
+					android:text="000864"
+					android:textColor="#ffffffff"
+					android:textSize="@dimen/_6sdp" />
+			</FrameLayout>
+		</LinearLayout>
+
+		<LinearLayout
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="bottom|center"
+			android:layout_marginBottom="@dimen/_14sdp"
+			android:divider="@drawable/_2sdp_divider"
+			android:orientation="vertical"
+			android:showDividers="middle">
+
+			<LinearLayout
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:divider="@drawable/_5sdp_divider"
+				android:orientation="horizontal"
+				android:showDividers="middle">
+
+				<ImageView
+					android:id="@id/in_left"
+					android:layout_width="@dimen/_6sdp"
+					android:layout_height="@dimen/_6sdp"
+					app:srcCompat="@drawable/ic_speed_in_left" />
+
+				<ImageView
+					android:id="@id/in_alarm"
+					android:layout_width="@dimen/_6sdp"
+					android:layout_height="@dimen/_6sdp"
+					app:srcCompat="@drawable/ic_speed_in_alarm" />
+
+				<ImageView
+					android:id="@id/in_right"
+					android:layout_width="@dimen/_6sdp"
+					android:layout_height="@dimen/_6sdp"
+					app:srcCompat="@drawable/ic_speed_in_right" />
+			</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:divider="@drawable/_5sdp_divider"
+				android:orientation="horizontal"
+				android:showDividers="middle">
+
+				<ImageView
+					android:id="@id/in_light"
+					android:layout_width="@dimen/_6sdp"
+					android:layout_height="@dimen/_6sdp"
+					app:srcCompat="@drawable/ic_speed_in_light" />
+
+				<ImageView
+					android:id="@id/in_engine"
+					android:layout_width="@dimen/_6sdp"
+					android:layout_height="@dimen/_6sdp"
+					app:srcCompat="@drawable/ic_speed_in_engine" />
+
+				<ImageView
+					android:id="@id/in_key"
+					android:layout_width="@dimen/_6sdp"
+					android:layout_height="@dimen/_6sdp"
+					app:srcCompat="@drawable/ic_speed_in_key" />
+			</LinearLayout>
+		</LinearLayout>
+	</FrameLayout>
+
+	<FrameLayout
+		android:id="@id/hp_layout"
+		android:layout_width="@dimen/_33sdp"
+		android:layout_height="@dimen/_27sdp"
+		android:layout_gravity="bottom"
+		android:layout_marginBottom="@dimen/_29sdp"
+		android:visibility="gone">
+
+		<ImageView
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			app:srcCompat="@drawable/speed_hp_bg" />
+
+		<LinearLayout
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"
+			android:orientation="vertical">
+
+			<ImageView
+				android:layout_width="@dimen/_14sdp"
+				android:layout_height="@dimen/_9sdp"
+				android:layout_gravity="center_horizontal"
+				app:srcCompat="@drawable/ic_speed_hp" />
+
+			<TextView
+				android:id="@id/hp_text"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_horizontal"
+				android:layout_marginTop="@dimen/_1sdp"
+				android:fontFamily="@font/ttnorms_extrabold"
+				android:text="100"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_5sdp" />
+		</LinearLayout>
+	</FrameLayout>
+
+	<FrameLayout
+		android:id="@id/turn_right"
+		android:layout_width="@dimen/_44sdp"
+		android:layout_height="@dimen/_27sdp"
+		android:layout_gravity="bottom"
+		android:layout_marginBottom="@dimen/_29sdp"
+		android:visibility="gone">
+
+		<ImageView
+			android:id="@id/turn_right_bg"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			app:srcCompat="@drawable/speed_turn_right_bg" />
+
+		<ImageView
+			android:layout_width="@dimen/_19sdp"
+			android:layout_height="@dimen/_19sdp"
+			android:layout_gravity="center"
+			android:layout_marginStart="@dimen/_2sdp"
+			app:srcCompat="@drawable/ic_turn_right" />
+	</FrameLayout>
+
+</LinearLayout>

@@ -1,0 +1,1938 @@
+[
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_0.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_0.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_mtrl_tabs_default_indicator.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_15.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_15.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_pass_tel.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\pass_tel.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_speed_in_engine.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_speed_in_engine.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_btn_azure.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\btn_azure.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_hud_bp.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_hud_bp.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_hud_fcm_notify_bg__0.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\hud_fcm_notify_bg__0.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_ua_font.ttf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\ua_font.ttf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_akrobat_extra_bold.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\akrobat_extra_bold.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_akrobat_semi_bold.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\akrobat_semi_bold.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_roboto_bold_italic.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\roboto_bold_italic.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_btn_radio_to_on_mtrl_ring_outer_path_animation.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_hud_weapon_icon_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\hud_weapon_icon_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_lm_bg_4.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\lm_bg_4.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_server_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_server_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_noty_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_noty_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_22.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_22.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_speed_fuel_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\speed_fuel_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_frac_info.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_frac_info.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_dialog_settings_fps.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\dialog_settings_fps.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_dialog_list_bg_old.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_dialog_list_bg_old.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_tab_select.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_tab_select.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_akrobat_thin.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\akrobat_thin.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_31.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_31.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_abc_tooltip_enter.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-mdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-mdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_turn_left__0.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_turn_left__0.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\animator_reduce_size.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\animator\\reduce_size.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_abc_fade_in.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_seek_arc_control_selector.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\seek_arc_control_selector.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_ttnorms_extrabold.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\ttnorms_extrabold.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_ttnorms_light.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\ttnorms_light.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_dialog_header_shadow.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\dialog_header_shadow.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-hdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_sberreg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\sberreg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_loading.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\loading.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_img.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\img.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_ttnorms_mediumitalic.ttf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\ttnorms_mediumitalic.ttf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_24.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_24.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_progressbar_noty.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\progressbar_noty.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_hud_eat.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_hud_eat.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_vetka_winter.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\vetka_winter.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_abc_popup_exit.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_lm_bg_2.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\lm_bg_2.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_avd_hide_password.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_dialog_button_negative_old.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_dialog_button_negative_old.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_download.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\download.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_progressbar_shahta.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\progressbar_shahta.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_phone.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\phone.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_splash_screen.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_speedbarxml.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\speedbarxml.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_speed_in_alarm.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_speed_in_alarm.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ad_close.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ad_close.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_17.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_17.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_shahta.webp.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\shahta.webp"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_zoloto.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\zoloto.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_social_vk.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_social_vk.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_quest_arrow_open.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_quest_arrow_open.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_42.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_42.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_hud_money_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\hud_money_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_launcher_faq.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_launcher_faq.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\color_common_signin_btn_text_light.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_menu_action_dialog.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\menu_action_dialog.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_dialog_button_1.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\dialog_button_1.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_hud_gps.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_hud_gps.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_btn_radio_off_mtrl.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_dialog_item_old.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\dialog_item_old.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_11.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_11.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_bg_vibar.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\bg_vibar.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_4.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_4.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_design_bottom_sheet_slide_in.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_35.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_35.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_noty_btn_2.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_noty_btn_2.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-hdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_hud_wanted.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_hud_wanted.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-hdpi-v4_powered_by_google_dark.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-hdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-xxhdpi-v4_powered_by_google_dark.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-xxhdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_chat.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\chat.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_serverlist_item.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\serverlist_item.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_launcher.webp.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_speedlinia.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\speedlinia.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_ttnorms_medium.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\ttnorms_medium.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_btn_checkbox_to_checked_box_inner_merged_animation.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\btn_checkbox_to_checked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_promouter.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\promouter.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_shift_off.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_shift_off.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_montsserat_semibold.ttf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\montsserat_semibold.ttf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_28.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_28.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_car_donate.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\car_donate.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_lm_bg_0.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\lm_bg_0.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_keyboard_history_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\keyboard_history_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_keyboard_close.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_keyboard_close.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_dialog_settings.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\dialog_settings.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_design_snackbar_out.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_shop.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\shop.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_design_snackbar_in.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_slide_out_bottom.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_hud_fcm_notify_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\hud_fcm_notify_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_launcher_close.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_launcher_close.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_mont_bold.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\mont_bold.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_speed_in_right.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_speed_in_right.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_donate_skin.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\donate_skin.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_wheel.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\wheel.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_quest_arrow_close.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_quest_arrow_close.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_abc_vector_test.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_dialog_settings_weapons.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\dialog_settings_weapons.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\xml_provider_paths.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_turn_left.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_turn_left.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_img_2.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\img_2.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_hud_shop.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_hud_shop.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\animator_regain_size.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\animator\\regain_size.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_launcher_exit.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_launcher_exit.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_design_ic_visibility_off.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_rubel.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_rubel.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_block_screen.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\block_screen.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_btn_checkbox_checked_mtrl.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_backspace.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_backspace.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_loadingmenu.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\loadingmenu.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_roboto_light.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\roboto_light.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_launcher_scrollbar_thumb.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_launcher_scrollbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_45.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_45.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_fade_in.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_btn_radio_to_off_mtrl_ring_outer_path_animation.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_tajawal_regular.ttf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\tajawal_regular.ttf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_keyboard_input_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\keyboard_input_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_notification_bg_low.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_social_youtube.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_social_youtube.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_29.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_29.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_bankomat_info.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_bankomat_info.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_shadow.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\shadow.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_mtrl_chip_close_circle.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_shift_always.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_shift_always.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_background_br_input.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\background_br_input.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_44.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_44.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_plate.ttf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\plate.ttf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_shahta_bar.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\shahta_bar.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_banner.webp.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\banner.webp"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_launcher_settings.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_launcher_settings.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_pt_root_ui_bold.ttf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\pt_root_ui_bold.ttf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_azurelogo.webp.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\azurelogo.webp"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_starline.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\starline.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_hud_gz.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_hud_gz.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_turn_right.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_turn_right.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_speed_in_light.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_speed_in_light.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_hud_btn_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\hud_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_launcher_bg_pic.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\launcher_bg_pic.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_hud_progress_long_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\hud_progress_long_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-hdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_main_footer.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_main_footer.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_kamen.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\kamen.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_quest_open_bg0.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\quest_open_bg0.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_notification_action_background.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_sberstol.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\sberstol.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_akrobat_semibold.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\akrobat_semibold.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_rudasklad.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\rudasklad.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\color_common_signin_btn_text_dark.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_hudstata.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\hudstata.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_gameclub_players.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_gameclub_players.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_hud_armor.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_hud_armor.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_lm_candle.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_lm_candle.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_speed_hp.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_speed_hp.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_abc_slide_in_top.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_fragment_splash.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_scotch_promouter.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\scotch_promouter.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-hdpi-v4_adtlogo.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-hdpi-v4\\adtlogo.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_ttnorms_black.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\ttnorms_black.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_design_bottom_sheet_slide_out.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_polonium_bold.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\polonium_bold.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ruda.webp.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ruda.webp"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_montserrat_bolditalic.ttf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\montserrat_bolditalic.ttf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_auth_bg_vk.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\auth_bg_vk.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_ruda.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\ruda.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_keyboard_cmd.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_keyboard_cmd.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_34.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_34.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_hud_progress_short.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\hud_progress_short.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_design_ic_visibility.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_roboto_bold.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\roboto_bold.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_18.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_18.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_scale.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\scale.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-xhdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_mont_regular.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\mont_regular.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_shift_single.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_shift_single.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-xxhdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-xxhdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_launcher_matreshka.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_launcher_matreshka.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-xxhdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-xxhdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_akrobat_bold.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\akrobat_bold.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_activity_story.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\activity_story.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_hud_quest_btn_bg0.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\hud_quest_btn_bg0.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_pt_root_ui_light.ttf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\pt_root_ui_light.ttf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_fragment_download.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\fragment_download.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_launcher_scrollbar_track.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_launcher_scrollbar_track.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_muller_regular.ttf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\muller_regular.ttf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_donate_med.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\donate_med.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_custom_dialog.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_ttnorms_bold.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\ttnorms_bold.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_button_voice_muted__0.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_button_voice_muted__0.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_roboto_regular.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\roboto_regular.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_speed_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\speed_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-mdpi-v4_powered_by_google_light.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-mdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_button_voice_active__0.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_button_voice_active__0.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_2.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_2.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_abc_popup_enter.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_off_tel.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\off_tel.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_chat_bg_active__0.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_chat_bg_active__0.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_loading_image.webp.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\loading_image.webp"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-xxhdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-xxhdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_hud_gz_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\hud_gz_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_roboto_medium.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\roboto_medium.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_speedmenu.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\speedmenu.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_social_media.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_social_media.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_hud_money_bg_right.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\hud_money_bg_right.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_zheleso.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\zheleso.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_social_telegram.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_social_telegram.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_dialog_settings_old.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\dialog_settings_old.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_hud_fcm_clickable.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_hud_fcm_clickable.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_33.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_33.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_46.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_46.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_loadingscreen.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\loadingscreen.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_akrobat_black.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\akrobat_black.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_story_fg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\story_fg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\raw_video_menu.mp4.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\raw\\video_menu.mp4"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\xml_appsflyer_backup_rules.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\xml\\appsflyer_backup_rules.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_hud_fcm_clickable__0.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_hud_fcm_clickable__0.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_hud_oxygen.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_hud_oxygen.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_hud_progressbar_short.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\hud_progressbar_short.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_noty.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\noty.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_hud_human.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_hud_human.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_30.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_30.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_ru_font.ttf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\ru_font.ttf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_fragment_fast_out_extra_slow_in.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-xhdpi-v4_powered_by_google_dark.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-xhdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_img_1.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_speed_fuel.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_speed_fuel.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_notification_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_lm_bg_5.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\lm_bg_5.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_16.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_16.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_hud_hp.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_hud_hp.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_muller_medium.ttf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\muller_medium.ttf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable__49724.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\_49724.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weather_tel.webp.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weather_tel.webp"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\color_wallet_secondary_text_holo_dark.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_button_voice_inactive.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_button_voice_inactive.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_1.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_1.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_btn_gold.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\btn_gold.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_server.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_server.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_fragment_story.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\fragment_story.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_btn_checkbox_to_unchecked_icon_null_animation.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\btn_checkbox_to_unchecked_icon_null_animation.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_bg_promouter.webp.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\bg_promouter.webp"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_auth_bg_hud.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\auth_bg_hud.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_hud_weapon_icon_bg__0.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\hud_weapon_icon_bg__0.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_hud_quest_bg0.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\hud_quest_bg0.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_launcher_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\launcher_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_hud.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\hud.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_mtrl_bottom_sheet_slide_out.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_hud_shop_x2.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_hud_shop_x2.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_21.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_21.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_grow_fade_in_from_bottom.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_hud_money_bg_left.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\hud_money_bg_left.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_btn_radio_to_off_mtrl_ring_outer_animation.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\btn_radio_to_off_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_btn_radio_off_to_on_mtrl_animation.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_img_3.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\img_3.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-xhdpi_scrubber_control_normal_holo.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-xhdpi\\scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-xxhdpi-v4_powered_by_google_light.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-xxhdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ugol.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ugol.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_32.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_32.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_loadingbar.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\loadingbar.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable__4sdp_divider.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\_4sdp_divider.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_btn_crimson.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\btn_crimson.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_btn_radio_to_off_mtrl_dot_group_animation.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\btn_radio_to_off_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_gilroy_semibold.ttf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\gilroy_semibold.ttf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_btn_checkbox_to_unchecked_check_path_merged_animation.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\btn_checkbox_to_unchecked_check_path_merged_animation.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-hdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-hdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_btn_checkbox_unchecked_to_checked_mtrl_animation.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_14.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_14.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_hud_chat_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\hud_chat_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_keyboard_up.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_keyboard_up.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_hud_progress_long.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\hud_progress_long.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_3.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_3.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_recommended_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\recommended_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_keyboard_btn_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\keyboard_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_dialog_button_0.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\dialog_button_0.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_phone.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\phone.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_btn_radio_on_to_off_mtrl_animation.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\btn_radio_on_to_off_mtrl_animation.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_btn_radio_to_on_mtrl_dot_group_animation.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\btn_radio_to_on_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_donate_pass.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\donate_pass.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_pt_root_ui_medium.ttf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\pt_root_ui_medium.ttf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_donate_lic.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\donate_lic.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable__5sdp_divider.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\_5sdp_divider.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_google_kartpng.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\google_kartpng.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_pt_root_ui_regular.ttf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\pt_root_ui_regular.ttf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_chat_message_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_chat_message_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-xhdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_montserrat_regular.ttf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\montserrat_regular.ttf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-xxhdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-xxhdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_speed_hp_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\speed_hp_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-xhdpi_scrubber_control_focused_holo.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-xhdpi\\scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_url.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_url.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_tab_scrollbar_track_old.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_tab_scrollbar_track_old.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_hud_wanted_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\hud_wanted_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_fragment_donate.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\fragment_donate.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_mtrl_chip_checked_black.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-xhdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_lm_bg_1.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\lm_bg_1.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_5.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_5.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_iv_smile.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\iv_smile.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_dialog_settings_common.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\dialog_settings_common.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_btn_checkbox_unchecked_mtrl.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_36.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_36.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_speedfuel.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\speedfuel.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_noty_btn_1.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_noty_btn_1.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable__2sdp_divider.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\_2sdp_divider.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_btn_checkbox_checked_to_unchecked_mtrl_animation.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_akrobat_light.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\akrobat_light.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_43.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_43.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_btn_checkbox_to_checked_icon_null_animation.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\btn_checkbox_to_checked_icon_null_animation.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_button_voice_muted.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_button_voice_muted.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_button_voice_active.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_button_voice_active.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_menu_action_item.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\menu_action_item.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-mdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-mdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\color_wallet_primary_text_holo_light.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_abc_tooltip_exit.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_chat_scrollbar_track.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_chat_scrollbar_track.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_chat_bg_active.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_chat_bg_active.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-xhdpi-v4_menu_close.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-xhdpi-v4\\menu_close.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_akrobat_regular.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\akrobat_regular.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_montserrat_medium.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\montserrat_medium.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_vip_account_money_res.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\vip_account_money_res.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_click.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\click.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_fragment_server_select.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\fragment_server_select.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_10.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_10.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_23.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_23.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_phonelogo.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\phonelogo.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-mdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-mdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_activity_main.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_turn_right__0.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_turn_right__0.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_speed_mileage_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\speed_mileage_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_story_blackout.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\story_blackout.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_7.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_7.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_btn_radio_to_on_mtrl_ring_outer_animation.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\btn_radio_to_on_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_story_item.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\story_item.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_37.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_37.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_navigation_empty_icon.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_montserrat_black.ttf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\montserrat_black.ttf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_hud_progressbar_long.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\hud_progressbar_long.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_anonymus.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\anonymus.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_8.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_8.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_dialog_old.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\dialog_old.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_google_kart.jpg.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\google_kart.jpg"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_launcher_enter.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_launcher_enter.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_launcher_user.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_launcher_user.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_hud_progress_short_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\hud_progress_short_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_story_stroke.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_story_stroke.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_progressbar_launcher.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\progressbar_launcher.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_ttnorms_blackitalic.ttf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\ttnorms_blackitalic.ttf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_sber.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\sber.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_btn_checkbox_to_checked_box_outer_merged_animation.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\btn_checkbox_to_checked_box_outer_merged_animation.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-mdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-mdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_38.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_38.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_gotham_pro_bold.ttf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\gotham_pro_bold.ttf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-mdpi-v4_powered_by_google_dark.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-mdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_dialog_settings_color.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\dialog_settings_color.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-xhdpi-v4_powered_by_google_light.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-xhdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_dialog_button_positive_old.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_dialog_button_positive_old.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_tab_scrollbar_thumb_old.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_tab_scrollbar_thumb_old.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_speedometer.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\speedometer.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_avd_show_password.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_fade_out.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_popup_hide_notification.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\popup_hide_notification.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_button_click.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\button_click.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_bangers.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\bangers.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_notification_tile_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_keyboard_enter__0.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_keyboard_enter__0.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_auth_bg_email.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\auth_bg_email.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-xhdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_fragment_main.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_discord_azure.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_discord_azure.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_slide_in_bottom.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_adobnova.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\adobnova.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_auth_bg_button.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\auth_bg_button.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_speed_in_left.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_speed_in_left.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_hud_chat_active.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_hud_chat_active.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_archivo_black.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\archivo_black.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_9.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_9.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_chat_message.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\chat_message.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_keyboard.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\keyboard.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_roboto_black.ttf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\roboto_black.ttf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_launcher_main_info_ic.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\launcher_main_info_ic.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_design_fab_background.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_warning_2.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\warning_2.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_logo_big.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\logo_big.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_keyboard_down.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_keyboard_down.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_sberreg.webp.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\sberreg.webp"
+    },
+    {
+        "merged": "ru.azure.games.app-merged_res-6:/layout_keyboard.xml.flat",
+        "source": "ru.azure.games.app-main-8:/layout/keyboard.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_button_voice_inactive__0.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_button_voice_inactive__0.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-xhdpi_scrubber_control_disabled_holo.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-xhdpi\\scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_hud_stat_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\hud_stat_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_6.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_6.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_montserrat_bold.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\montserrat_bold.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_questdialog.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\questdialog.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_scale2.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\scale2.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_27.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_27.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_dialog_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_eleventh_square.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\eleventh_square.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_menu.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\menu.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_dialog_bg_old.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_dialog_bg_old.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-xxxhdpi-v4_ic_launcher.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-xxxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_akrobat_extrabold.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\akrobat_extrabold.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_mtrl_chip_checked_circle.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_mont_light.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\mont_light.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_background_menu.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\background_menu.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_speed_turn_left_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\speed_turn_left_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_akrobat_extralight.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\akrobat_extralight.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_listovka_promouter.webp.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\listovka_promouter.webp"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_batarea_tel.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\batarea_tel.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_tooltip_frame_dark.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_abc_fade_out.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_btn_checkbox_to_unchecked_box_inner_merged_animation.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_img_4.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\img_4.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_26.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_26.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_design_snackbar_background.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_krem.webp.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\krem.webp"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_donate_close.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\donate_close.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_dialog_settings_hud.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\dialog_settings_hud.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_notification_icon_background.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_speedsedan.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\speedsedan.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_polonium_regular.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\polonium_regular.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_keyboard_enter.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_keyboard_enter.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_41.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_41.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_12.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_12.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_25.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_25.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_br_donate.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\br_donate.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_chat_scrollbar_thumb.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_chat_scrollbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable__6sdp_divider.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\_6sdp_divider.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\anim_abc_slide_out_top.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\xml_network_security_config.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-xhdpi_scrubber_control_pressed_holo.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-xhdpi\\scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_test.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\test.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_main_render_screen.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\main_render_screen.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_design_password_eye.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_bg_yellow.webp.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\bg_yellow.webp"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_40.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_40.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_lm_bg_3.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\lm_bg_3.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_muller_bold.ttf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\muller_bold.ttf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_hud_shop_x2__0.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_hud_shop_x2__0.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_39.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_39.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_weapon_13.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\weapon_13.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_speed_turn_right_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\speed_turn_right_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_krughud.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\krughud.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable-hdpi-v4_powered_by_google_light.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable-hdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_tooltip_frame_light.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_fragment_settings.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_launcher_arrow.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_launcher_arrow.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_speed_in_key.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_speed_in_key.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_ic_hud_fcm_bell.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\ic_hud_fcm_bell.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_btn_radio_on_mtrl.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_dialog_first_btn_bg.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\dialog_first_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_img_5.png.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\img_5.png"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_mont_semibold.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\mont_semibold.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\font_ttnorms_regular.otf.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\font\\ttnorms_regular.otf"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\layout_promouter.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\layout\\promouter.xml"
+    },
+    {
+        "merged": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-merged_res-6:\\drawable_speedhpbar.xml.flat",
+        "source": "D:\\Kirill\\games\\Programa\\AndroidStudio\\jbr\\daemon\\7.5\\ru.azure.games.app-main-8:\\drawable\\speedhpbar.xml"
+    }
+]

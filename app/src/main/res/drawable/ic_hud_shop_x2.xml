@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="28.0dip" android:width="39.0dip" android:viewportWidth="39.0" android:viewportHeight="28.0">
+	<path android:fillColor="@drawable/ic_hud_shop_x2__0" android:pathData="M1.629,11.067C2.597,6.546 3.082,4.285 4.458,2.719C5.058,2.036 5.77,1.461 6.563,1.018C8.382,0 10.694,0 15.318,0H23.682C30.481,0 33.881,0 36.061,1.721C36.997,2.46 37.756,3.399 38.283,4.469C39.508,6.961 38.796,10.285 37.371,16.933V16.933C36.403,21.454 35.918,23.715 34.542,25.281C33.942,25.963 33.23,26.539 32.437,26.982C30.618,28 28.306,28 23.682,28H15.318C8.519,28 5.119,28 2.939,26.279C2.003,25.54 1.244,24.601 0.717,23.531C-0.508,21.039 0.204,17.715 1.629,11.067V11.067Z" />
+</vector>

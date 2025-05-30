@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434706027749",
+    "project_id": "azure-mobile-b1f72",
+    "storage_bucket": "azure-mobile-b1f72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434706027749:android:dc6258b7b4be07d385700c",
+        "android_client_info": {
+          "package_name": "ru.azure.games"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxnqQAH2ZazSxmcPtQGCv5Zzp1JM9LW6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

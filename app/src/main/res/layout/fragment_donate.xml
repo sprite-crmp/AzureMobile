@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_donate"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:visibility="invisible">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#023D59"
+        android:foreground="@drawable/launcher_bg_pic"
+        android:visibility="visible">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/constraintLayout5"
+            android:layout_width="214dp"
+            android:layout_height="77dp"
+            android:layout_marginTop="64dp"
+            android:layout_marginEnd="56dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <ImageView
+            android:id="@+id/donate_buy"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            app:layout_constraintStart_toStartOf="@+id/constraintLayout5"
+            app:layout_constraintTop_toTopOf="@+id/constraintLayout5"
+            app:srcCompat="@drawable/ic_noty_btn_1" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/montserrat_bold"
+            android:text="ПОПОЛНИТЬ"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_7sdp"
+            app:layout_constraintBottom_toBottomOf="@+id/donate_buy"
+            app:layout_constraintEnd_toEndOf="@+id/donate_buy"
+            app:layout_constraintStart_toStartOf="@+id/donate_buy"
+            app:layout_constraintTop_toTopOf="@+id/donate_buy" />
+
+        <ImageView
+            android:id="@+id/donate_bal"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="15dp"
+            app:layout_constraintBottom_toBottomOf="@+id/donate_buy"
+            app:layout_constraintStart_toEndOf="@+id/donate_buy"
+            app:layout_constraintTop_toTopOf="@+id/donate_buy"
+            app:srcCompat="@drawable/btn_crimson" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/montserrat_bold"
+            android:text="КЕЙСЫ"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_7sdp"
+            app:layout_constraintBottom_toBottomOf="@+id/donate_bal"
+            app:layout_constraintEnd_toEndOf="@+id/donate_bal"
+            app:layout_constraintStart_toStartOf="@+id/donate_bal"
+            app:layout_constraintTop_toTopOf="@+id/donate_bal" />
+
+        <ImageView
+            android:id="@+id/donate_close"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="15dp"
+            app:layout_constraintEnd_toEndOf="@+id/donate_bal"
+            app:layout_constraintStart_toStartOf="@+id/donate_bal"
+            app:layout_constraintTop_toBottomOf="@+id/donate_bal"
+            app:srcCompat="@drawable/btn_gold" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/montserrat_bold"
+            android:text="ВЫЙТИ"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_7sdp"
+            app:layout_constraintBottom_toBottomOf="@+id/donate_close"
+            app:layout_constraintEnd_toEndOf="@+id/donate_close"
+            app:layout_constraintStart_toStartOf="@+id/donate_close"
+            app:layout_constraintTop_toTopOf="@+id/donate_close" />
+
+        <ImageView
+            android:id="@+id/donate_trans"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="15dp"
+            app:layout_constraintEnd_toEndOf="@+id/donate_buy"
+            app:layout_constraintStart_toStartOf="@+id/donate_buy"
+            app:layout_constraintTop_toBottomOf="@+id/donate_buy"
+            app:srcCompat="@drawable/btn_azure" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/montserrat_bold"
+            android:text="ОБМЕНЯТЬ"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_7sdp"
+            app:layout_constraintBottom_toBottomOf="@+id/donate_trans"
+            app:layout_constraintEnd_toEndOf="@+id/donate_trans"
+            app:layout_constraintStart_toStartOf="@+id/donate_trans"
+            app:layout_constraintTop_toTopOf="@+id/donate_trans" />
+
+        <TextView
+            android:id="@+id/baltext"
+            android:layout_width="wrap_content"
+            android:layout_height="17dp"
+            android:layout_marginBottom="15dp"
+            android:fontFamily="@font/montserrat_bold"
+            android:shadowColor="@color/black"
+            android:shadowRadius="5"
+            android:text="Баланс: 1500 Coins"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toTopOf="@+id/constraintLayout5"
+            app:layout_constraintStart_toStartOf="@+id/constraintLayout5" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/strone"
+            android:layout_width="404dp"
+            android:layout_height="334dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/constraintLayout4"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:id="@+id/donate_lic"
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/background_br_input" />
+
+            <ImageView
+                android:id="@+id/imageView28"
+                android:layout_width="58dp"
+                android:layout_height="45dp"
+                android:layout_marginBottom="15dp"
+                app:layout_constraintBottom_toBottomOf="@+id/donate_lic"
+                app:layout_constraintEnd_toEndOf="@+id/donate_lic"
+                app:layout_constraintStart_toStartOf="@+id/donate_lic"
+                app:layout_constraintTop_toTopOf="@+id/donate_lic"
+                app:srcCompat="@drawable/donate_lic" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:fontFamily="@font/montserrat_bold"
+                android:text="Все лицензии"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_7sdp"
+                app:layout_constraintBottom_toBottomOf="@+id/donate_lic"
+                app:layout_constraintEnd_toEndOf="@+id/imageView28"
+                app:layout_constraintStart_toStartOf="@+id/imageView28"
+                app:layout_constraintTop_toBottomOf="@+id/imageView28" />
+
+            <ImageView
+                android:id="@+id/donate_med"
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginStart="20dp"
+                app:layout_constraintBottom_toBottomOf="@+id/donate_lic"
+                app:layout_constraintStart_toEndOf="@+id/donate_lic"
+                app:layout_constraintTop_toTopOf="@+id/donate_lic"
+                app:srcCompat="@drawable/background_br_input" />
+
+            <ImageView
+                android:id="@+id/imageView33"
+                android:layout_width="60dp"
+                android:layout_height="50dp"
+                android:layout_marginBottom="15dp"
+                app:layout_constraintBottom_toBottomOf="@+id/donate_med"
+                app:layout_constraintEnd_toEndOf="@+id/donate_med"
+                app:layout_constraintStart_toStartOf="@+id/donate_med"
+                app:layout_constraintTop_toTopOf="@+id/donate_med"
+                app:srcCompat="@drawable/donate_med" />
+
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:fontFamily="@font/montserrat_bold"
+                android:text="Медицинская карта"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_7sdp"
+                app:layout_constraintBottom_toBottomOf="@+id/donate_med"
+                app:layout_constraintEnd_toEndOf="@+id/imageView33"
+                app:layout_constraintStart_toStartOf="@+id/imageView33"
+                app:layout_constraintTop_toBottomOf="@+id/imageView33" />
+
+            <ImageView
+                android:id="@+id/donate_nick"
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginStart="20dp"
+                app:layout_constraintBottom_toBottomOf="@+id/donate_med"
+                app:layout_constraintStart_toEndOf="@+id/donate_med"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/background_br_input" />
+
+            <ImageView
+                android:id="@+id/imageView35"
+                android:layout_width="70dp"
+                android:layout_height="60dp"
+                android:layout_marginBottom="15dp"
+                android:rotation="0"
+                app:layout_constraintBottom_toBottomOf="@+id/donate_nick"
+                app:layout_constraintEnd_toEndOf="@+id/donate_nick"
+                app:layout_constraintStart_toStartOf="@+id/donate_nick"
+                app:layout_constraintTop_toTopOf="@+id/donate_nick"
+                app:srcCompat="@drawable/donate_pass" />
+
+            <TextView
+                android:id="@+id/textView17"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:fontFamily="@font/montserrat_bold"
+                android:text="Сменить имя"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_7sdp"
+                app:layout_constraintBottom_toBottomOf="@+id/donate_nick"
+                app:layout_constraintEnd_toEndOf="@+id/imageView35"
+                app:layout_constraintStart_toStartOf="@+id/imageView35"
+                app:layout_constraintTop_toBottomOf="@+id/imageView35" />
+
+            <ImageView
+                android:id="@+id/imageView38"
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="15dp"
+                app:layout_constraintEnd_toEndOf="@+id/donate_lic"
+                app:layout_constraintStart_toStartOf="@+id/donate_lic"
+                app:layout_constraintTop_toBottomOf="@+id/donate_lic"
+                app:srcCompat="@drawable/background_br_input" />
+
+            <ImageView
+                android:id="@+id/imageView39"
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginStart="20dp"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView38"
+                app:layout_constraintStart_toEndOf="@+id/imageView38"
+                app:layout_constraintTop_toTopOf="@+id/imageView38"
+                app:srcCompat="@drawable/background_br_input" />
+
+            <ImageView
+                android:id="@+id/imageView40"
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginStart="20dp"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView39"
+                app:layout_constraintStart_toEndOf="@+id/imageView39"
+                app:layout_constraintTop_toTopOf="@+id/imageView39"
+                app:srcCompat="@drawable/background_br_input" />
+
+            <ImageView
+                android:id="@+id/imageView36"
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="15dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView38"
+                app:srcCompat="@drawable/background_br_input" />
+
+            <ImageView
+                android:id="@+id/imageView41"
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="15dp"
+                app:layout_constraintStart_toEndOf="@+id/imageView36"
+                app:layout_constraintTop_toBottomOf="@+id/imageView39"
+                app:srcCompat="@drawable/background_br_input" />
+
+            <ImageView
+                android:id="@+id/imageView37"
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="15dp"
+                app:layout_constraintStart_toEndOf="@+id/imageView41"
+                app:layout_constraintTop_toBottomOf="@+id/imageView40"
+                app:srcCompat="@drawable/background_br_input" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/strtwo"
+            android:layout_width="404dp"
+            android:layout_height="339dp"
+            android:layout_marginTop="8dp"
+            android:visibility="gone"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/constraintLayout4"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/constraintLayout4"
+            android:layout_width="213dp"
+            android:layout_height="160dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/constraintLayout5"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/constraintLayout5"
+            app:layout_constraintTop_toBottomOf="@+id/constraintLayout5"
+            app:layout_constraintVertical_bias="0.152">
+
+            <ImageView
+                android:id="@+id/btn_strone"
+                android:layout_width="215dp"
+                android:layout_height="34dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.666"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/background_br_input" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/montserrat_bold"
+                android:text="Первая страница"
+                android:textColor="@color/white"
+                android:textSize="11sp"
+                app:layout_constraintBottom_toBottomOf="@+id/btn_strone"
+                app:layout_constraintEnd_toEndOf="@+id/btn_strone"
+                app:layout_constraintStart_toStartOf="@+id/btn_strone"
+                app:layout_constraintTop_toTopOf="@+id/btn_strone" />
+
+            <ImageView
+                android:id="@+id/btn_strtwo"
+                android:layout_width="215dp"
+                android:layout_height="34dp"
+                android:layout_marginTop="10dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.666"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/btn_strone"
+                app:srcCompat="@drawable/background_br_input" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/montserrat_bold"
+                android:text="Вторая страница"
+                android:textColor="@color/white"
+                android:textSize="11sp"
+                app:layout_constraintBottom_toBottomOf="@+id/btn_strtwo"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/btn_strtwo" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/buyokno"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="193dp"
+            android:layout_height="196dp"
+            android:background="@drawable/ic_noty_bg"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:id="@+id/imageView42"
+                android:layout_width="194dp"
+                android:layout_height="36dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/ic_noty_btn_1" />
+
+            <TextView
+                android:id="@+id/textView24"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/montserrat_bold"
+                android:text="Подтверждение"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView42"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/imageView42" />
+
+            <TextView
+                android:id="@+id/textView25"
+                android:layout_width="162dp"
+                android:layout_height="64dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/montserrat_bold"
+                android:gravity="center"
+                android:text="Вы действительно желаете приобрести данный товар за"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView42" />
+
+            <TextView
+                android:id="@+id/buytext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/montserrat_bold"
+                android:gravity="center"
+                android:text="150 Coins?"
+                android:textColor="#FFEB3B"
+                android:textSize="12sp"
+                app:layout_constraintEnd_toEndOf="@+id/textView25"
+                app:layout_constraintStart_toStartOf="@+id/textView25"
+                app:layout_constraintTop_toBottomOf="@+id/textView25" />
+
+            <ImageView
+                android:id="@+id/btn_da"
+                android:layout_width="75dp"
+                android:layout_height="33dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginBottom="16dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:srcCompat="@drawable/btn_azure" />
+
+            <TextView
+                android:id="@+id/textView27"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/montserrat_bold"
+                android:gravity="center"
+                android:text="Да"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                app:layout_constraintBottom_toBottomOf="@+id/btn_da"
+                app:layout_constraintEnd_toEndOf="@+id/btn_da"
+                app:layout_constraintStart_toStartOf="@+id/btn_da"
+                app:layout_constraintTop_toTopOf="@+id/btn_da" />
+
+            <ImageView
+                android:id="@+id/btn_net"
+                android:layout_width="75dp"
+                android:layout_height="33dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginBottom="16dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:srcCompat="@drawable/btn_crimson" />
+
+            <TextView
+                android:id="@+id/textView28"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/montserrat_bold"
+                android:gravity="center"
+                android:text="Нет"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                app:layout_constraintBottom_toBottomOf="@+id/btn_net"
+                app:layout_constraintEnd_toEndOf="@+id/btn_net"
+                app:layout_constraintStart_toStartOf="@+id/btn_net"
+                app:layout_constraintTop_toTopOf="@+id/btn_net" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/buyoknoda"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="194dp"
+            android:layout_height="181dp"
+            android:background="@drawable/ic_noty_bg"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:id="@+id/imageView46"
+                android:layout_width="194dp"
+                android:layout_height="36dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/ic_noty_btn_1" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/montserrat_bold"
+                android:text="Успешно"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView46"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/imageView46" />
+
+            <TextView
+                android:id="@+id/textView22"
+                android:layout_width="165dp"
+                android:layout_height="66dp"
+                android:layout_marginTop="8dp"
+                android:fontFamily="@font/montserrat_bold"
+                android:gravity="center"
+                android:text="Вы успешно приобрели товар, спасибо за поддержку проекта"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.448"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView46" />
+
+            <ImageView
+                android:id="@+id/btn_yra"
+                android:layout_width="75dp"
+                android:layout_height="33dp"
+                android:layout_marginBottom="10dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView22"
+                app:srcCompat="@drawable/btn_azure" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/montserrat_bold"
+                android:gravity="center"
+                android:text="Ура"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                app:layout_constraintBottom_toBottomOf="@+id/btn_yra"
+                app:layout_constraintEnd_toEndOf="@+id/btn_yra"
+                app:layout_constraintStart_toStartOf="@+id/btn_yra"
+                app:layout_constraintTop_toTopOf="@+id/btn_yra" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/buyoknominus"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="194dp"
+            android:layout_height="181dp"
+            android:background="@drawable/ic_noty_bg"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="194dp"
+                android:layout_height="36dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/ic_noty_btn_1" />
+
+            <TextView
+                android:id="@+id/f"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/montserrat_bold"
+                android:text="Недостаточно средств"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView3"
+                app:layout_constraintEnd_toEndOf="@+id/imageView3"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:layout_width="163dp"
+                android:layout_height="73dp"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/montserrat_bold"
+                android:gravity="center"
+                android:text="К сожалению у вас не хватает Coins для покупки товара"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.517"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+
+            <ImageView
+                android:id="@+id/btn_ex"
+                android:layout_width="75dp"
+                android:layout_height="33dp"
+                android:layout_marginBottom="22dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.504"
+                app:layout_constraintStart_toStartOf="parent"
+                app:srcCompat="@drawable/btn_azure" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/montserrat_bold"
+                android:gravity="center"
+                android:text="Ок"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                app:layout_constraintBottom_toBottomOf="@+id/btn_ex"
+                app:layout_constraintEnd_toEndOf="@+id/btn_ex"
+                app:layout_constraintStart_toStartOf="@+id/btn_ex"
+                app:layout_constraintTop_toTopOf="@+id/btn_ex" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

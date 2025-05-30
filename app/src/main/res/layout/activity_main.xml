@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@id/main_layout"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical">
+
+	<androidx.constraintlayout.widget.ConstraintLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:background="@color/color_0F0F0F">
+
+	</androidx.constraintlayout.widget.ConstraintLayout>
+
+	<FrameLayout
+		android:id="@id/front_ui_layout"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent" />
+
+	<androidx.constraintlayout.widget.ConstraintLayout
+		android:id="@+id/block_screen_id"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:background="@color/color_0F0F0F"
+		android:visibility="gone">
+
+		<ImageView
+			android:id="@+id/imageView45"
+			android:layout_width="54dp"
+			android:layout_height="49dp"
+			android:layout_marginBottom="190dp"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toTopOf="parent"
+			app:srcCompat="@drawable/warning_2" />
+
+		<TextView
+			android:id="@+id/textView26"
+			android:layout_width="466dp"
+			android:layout_height="38dp"
+			android:layout_marginTop="10dp"
+			android:fontFamily="@font/montserrat_bold"
+			android:gravity="center|top"
+			android:text="Предупреждение"
+			android:textColor="@color/common_signin_btn_default_background"
+			android:textSize="@dimen/_12sdp"
+			app:layout_constraintEnd_toEndOf="@+id/imageView45"
+			app:layout_constraintStart_toStartOf="@+id/imageView45"
+			app:layout_constraintTop_toBottomOf="@+id/imageView45" />
+
+		<TextView
+			android:id="@+id/block_text"
+			android:layout_width="467dp"
+			android:layout_height="150dp"
+			android:fontFamily="@font/montserrat_bold"
+			android:gravity="center|top"
+			android:textColor="@color/white"
+			android:textSize="@dimen/_12sdp"
+			app:layout_constraintEnd_toEndOf="@+id/textView26"
+			app:layout_constraintStart_toStartOf="@+id/textView26"
+			app:layout_constraintTop_toBottomOf="@+id/textView26" />
+
+		<androidx.constraintlayout.widget.ConstraintLayout
+			android:id="@id/links_button"
+			android:layout_width="258dp"
+			android:layout_height="73dp"
+			android:background="@drawable/_2sdp_divider"
+			android:scaleType="fitXY"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toEndOf="@+id/block_text"
+			app:layout_constraintStart_toStartOf="@+id/block_text"
+			app:layout_constraintWidth_percent="0.732407">
+
+			<ImageView
+				android:id="@+id/btn_forum"
+				android:layout_width="30dp"
+				android:layout_height="30dp"
+				android:layout_marginStart="40dp"
+				app:layout_constraintBottom_toBottomOf="parent"
+				app:layout_constraintStart_toStartOf="parent"
+				app:layout_constraintTop_toTopOf="parent"
+				app:srcCompat="@drawable/ic_launcher_faq" />
+
+			<ImageView
+				android:id="@+id/btn_vk"
+				android:layout_width="30dp"
+				android:layout_height="30dp"
+				android:layout_marginStart="20dp"
+				app:layout_constraintBottom_toBottomOf="@+id/btn_telegram"
+				app:layout_constraintStart_toEndOf="@+id/btn_telegram"
+				app:layout_constraintTop_toTopOf="@+id/btn_telegram"
+				app:srcCompat="@drawable/ic_social_vk" />
+
+			<ImageView
+				android:id="@+id/btn_telegram"
+				android:layout_width="30dp"
+				android:layout_height="30dp"
+				android:layout_marginStart="20dp"
+				app:layout_constraintBottom_toBottomOf="@+id/btn_forum"
+				app:layout_constraintStart_toEndOf="@+id/btn_forum"
+				app:layout_constraintTop_toTopOf="@+id/btn_forum"
+				app:srcCompat="@drawable/ic_social_telegram" />
+
+			<ImageView
+				android:id="@+id/btn_discord"
+				android:layout_width="60dp"
+				android:layout_height="60dp"
+				android:layout_marginStart="5dp"
+				app:layout_constraintBottom_toBottomOf="@+id/btn_vk"
+				app:layout_constraintStart_toEndOf="@+id/btn_vk"
+				app:layout_constraintTop_toTopOf="@+id/btn_vk"
+				app:srcCompat="@drawable/ic_discord_azure" />
+
+
+		</androidx.constraintlayout.widget.ConstraintLayout>
+	</androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

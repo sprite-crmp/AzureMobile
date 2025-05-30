@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="92.0dip" android:width="112.0dip" android:viewportWidth="112.0" android:viewportHeight="92.0">
+	<path android:fillColor="#ff482575" android:pathData="M17.26,12.6C18.57,6.56 19.23,3.54 21.43,1.77C23.63,0 26.72,0 32.9,0H92.15C101.32,0 105.9,0 108.3,2.98C110.7,5.96 109.73,10.44 107.78,19.4L94.74,79.4C93.43,85.44 92.77,88.46 90.57,90.23C88.37,92 85.28,92 79.1,92H19.85C10.68,92 6.1,92 3.7,89.02C1.3,86.04 2.27,81.56 4.22,72.6L17.26,12.6Z" />
+	<path android:fillColor="@drawable/hud_weapon_icon_bg__0" android:pathData="M17.26,12.6L17.26,12.6L10.52,43.6C8.57,52.56 7.6,57.04 10,60.02C12.4,63 16.99,63 26.15,63H85.41C91.59,63 94.68,63 96.88,61.23C99.07,59.46 99.73,56.44 101.04,50.4L107.78,19.4C109.73,10.44 110.7,5.96 108.3,2.98C105.9,0 101.32,0 92.15,0H32.89C26.71,0 23.62,0 21.43,1.77C19.23,3.54 18.57,6.56 17.26,12.6Z" android:fillType="evenOdd" />
+</vector>

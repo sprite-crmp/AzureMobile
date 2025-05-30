@@ -1,0 +1,5 @@
+ru.azure.games.test.app-androidTest-0 D:\Kirill\Java\Matreshka\Java\app\build\generated\res\resValues\androidTest\debug
+ru.azure.games.test.app-androidTest-1 D:\Kirill\Java\Matreshka\Java\app\build\generated\res\rs\androidTest\debug
+ru.azure.games.test.app-mergeDebugAndroidTestResources-2 D:\Kirill\Java\Matreshka\Java\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+ru.azure.games.test.app-mergeDebugAndroidTestResources-3 D:\Kirill\Java\Matreshka\Java\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+ru.azure.games.test.app-merged_res-4 D:\Kirill\Java\Matreshka\Java\app\build\intermediates\merged_res\debugAndroidTest

@@ -1,0 +1,520 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ru.azure.games"
+4    android:versionCode="133"
+5    android:versionName="5" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WAKE_LOCK" />
+11-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:6:5-68
+11-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:6:22-65
+12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+12-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:7:5-76
+12-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:7:22-73
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:8:5-67
+13-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:8:22-64
+14    <uses-permission android:name="android.permission.VIBRATE" />
+14-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:9:5-66
+14-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:9:22-63
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:10:5-79
+15-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:10:22-76
+16    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+16-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:11:5-73
+16-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:11:22-70
+17    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+17-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:12:5-71
+17-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:12:22-68
+18    <uses-permission android:name="android.permission.BLUETOOTH" />
+18-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:13:5-68
+18-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:13:22-65
+19    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+19-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:14:5-71
+19-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:14:22-68
+20    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+20-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:15:5-83
+20-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:15:22-80
+21    <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES" />
+21-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:16:5-82
+21-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:16:22-79
+22    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+22-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:17:5-77
+22-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:17:22-74
+23    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+23-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:18:5-81
+23-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:18:22-78
+24    <uses-permission android:name="android.permission.ACCESS_ALL_DOWNLOADS" />
+24-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:19:5-79
+24-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:19:22-76
+25    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+25-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:20:5-81
+25-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:20:22-78
+26    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+26-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:21:5-80
+26-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:21:22-77
+27    <uses-permission android:name="android.permission.REORDER_TASKS" />
+27-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:22:5-72
+27-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:22:22-69
+28    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+28-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:23:5-81
+28-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:23:22-79
+29    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+29-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:24:5-81
+29-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:24:22-78
+30    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+30-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:25:5-80
+30-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:25:22-77
+31    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+31-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:26:5-84
+31-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:26:22-82
+32    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+32-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:27:5-75
+32-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:27:22-73
+33    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+33-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:28:5-74
+33-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:28:22-72
+34    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+34-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:29:5-74
+34-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:29:22-72
+35
+36    <uses-feature android:glEsVersion="0x00020000" />
+36-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:31:5-54
+36-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:31:19-51
+37    <uses-feature
+37-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:32:5-34:36
+38        android:name="android.hardware.touchscreen"
+38-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:33:9-52
+39        android:required="false" />
+39-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:34:9-33
+40
+41    <supports-screens
+41-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:36:5-41:39
+42        android:anyDensity="true"
+42-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:37:9-34
+43        android:largeScreens="true"
+43-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:38:9-36
+44        android:normalScreens="true"
+44-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:39:9-37
+45        android:resizeable="true"
+45-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:40:9-34
+46        android:smallScreens="true" />
+46-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:41:9-36
+47
+48    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+48-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:23:5-77
+48-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:23:22-74
+49    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+49-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:26:5-82
+49-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:26:22-79
+50    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+50-->[com.google.android.gms:play-services-measurement-api:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\541d40aa909da1f3d47199b3f1c2e302\transformed\jetified-play-services-measurement-api-22.4.0\AndroidManifest.xml:25:5-79
+50-->[com.google.android.gms:play-services-measurement-api:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\541d40aa909da1f3d47199b3f1c2e302\transformed\jetified-play-services-measurement-api-22.4.0\AndroidManifest.xml:25:22-76
+51    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION" />
+51-->[com.google.android.gms:play-services-measurement-api:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\541d40aa909da1f3d47199b3f1c2e302\transformed\jetified-play-services-measurement-api-22.4.0\AndroidManifest.xml:26:5-88
+51-->[com.google.android.gms:play-services-measurement-api:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\541d40aa909da1f3d47199b3f1c2e302\transformed\jetified-play-services-measurement-api-22.4.0\AndroidManifest.xml:26:22-85
+52    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID" />
+52-->[com.google.android.gms:play-services-measurement-api:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\541d40aa909da1f3d47199b3f1c2e302\transformed\jetified-play-services-measurement-api-22.4.0\AndroidManifest.xml:27:5-82
+52-->[com.google.android.gms:play-services-measurement-api:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\541d40aa909da1f3d47199b3f1c2e302\transformed\jetified-play-services-measurement-api-22.4.0\AndroidManifest.xml:27:22-79
+53    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+53-->[com.google.android.gms:play-services-measurement:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c20c24fa4141a1d68435b9147ca7dd1b\transformed\jetified-play-services-measurement-22.4.0\AndroidManifest.xml:26:5-110
+53-->[com.google.android.gms:play-services-measurement:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c20c24fa4141a1d68435b9147ca7dd1b\transformed\jetified-play-services-measurement-22.4.0\AndroidManifest.xml:26:22-107
+54
+55    <permission
+55-->[androidx.core:core:1.9.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\ee805a668e067f244004b7106348f17e\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+56        android:name="ru.azure.games.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+56-->[androidx.core:core:1.9.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\ee805a668e067f244004b7106348f17e\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+57        android:protectionLevel="signature" />
+57-->[androidx.core:core:1.9.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\ee805a668e067f244004b7106348f17e\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+58
+59    <uses-permission android:name="ru.azure.games.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+59-->[androidx.core:core:1.9.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\ee805a668e067f244004b7106348f17e\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+59-->[androidx.core:core:1.9.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\ee805a668e067f244004b7106348f17e\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+60
+61    <application
+61-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:43:5-121:19
+62        android:allowBackup="true"
+62-->[com.github.Triggertrap:SeekArc:v1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\d0b4943a769c0eea08a413190f6cab75\transformed\jetified-SeekArc-v1.1\AndroidManifest.xml:35:9-35
+63        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+63-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:55:9-77
+64        android:debuggable="true"
+65        android:fullBackupContent="@xml/appsflyer_backup_rules"
+65-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:51:9-64
+66        android:hardwareAccelerated="true"
+66-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:47:9-43
+67        android:icon="@drawable/azurelogo"
+67-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:46:9-43
+68        android:isGame="true"
+68-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:50:9-30
+69        android:label="@string/app_name"
+69-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:45:9-41
+70        android:largeHeap="true"
+70-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:48:9-33
+71        android:networkSecurityConfig="@xml/network_security_config"
+71-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:53:9-69
+72        android:roundIcon="@drawable/azurelogo"
+72-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:54:9-48
+73        android:supportsRtl="true"
+73-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:49:9-35
+74        android:testOnly="true"
+75        android:theme="@style/AppTheme.Launcher"
+75-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:44:9-49
+76        android:usesCleartextTraffic="true" >
+76-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:52:9-44
+77        <service
+77-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:58:9-62:19
+78            android:name="ru.azure.games.application.MyFirebaseMessagingService"
+78-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:58:18-86
+79            android:exported="false" >
+79-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:58:87-111
+80            <intent-filter>
+80-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:59:13-61:29
+81                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+81-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:60:17-78
+81-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:60:25-75
+82            </intent-filter>
+83        </service>
+84
+85        <meta-data
+85-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:63:9-126
+86            android:name="com.google.firebase.messaging.default_notification_color"
+86-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:63:20-91
+87            android:resource="@color/white" />
+87-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:63:92-123
+88
+89        <activity
+89-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:66:9-70:45
+90            android:name="ru.azure.launcher.activity.StoryActivity"
+90-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:67:13-68
+91            android:exported="false"
+91-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:68:13-37
+92            android:screenOrientation="landscape" />
+92-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:69:13-50
+93
+94        <provider
+94-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:72:9-80:20
+95            android:name="androidx.core.content.FileProvider"
+95-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:73:13-62
+96            android:authorities="ru.azure.games.provider"
+96-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:74:13-58
+97            android:exported="false"
+97-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:75:13-37
+98            android:grantUriPermissions="true" >
+98-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:76:13-47
+99            <meta-data
+99-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:77:13-79:58
+100                android:name="android.support.FILE_PROVIDER_PATHS"
+100-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:78:17-67
+101                android:resource="@xml/provider_paths" />
+101-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:79:17-55
+102        </provider>
+103
+104        <activity
+104-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:82:9-86:45
+105            android:name="ru.azure.games.core.GTASA"
+105-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:83:13-53
+106            android:screenOrientation="landscape"
+106-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:84:13-50
+107            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen" />
+107-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:85:13-80
+108        <activity
+108-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:87:9-105:20
+109            android:name="ru.azure.launcher.activity.MainActivity"
+109-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:88:13-67
+110            android:autoRemoveFromRecents="true"
+110-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:93:13-49
+111            android:exported="true"
+111-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:89:13-36
+112            android:launchMode="singleTask"
+112-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:90:13-44
+113            android:screenOrientation="landscape"
+113-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:91:13-50
+114            android:windowSoftInputMode="adjustResize|stateHidden" >
+114-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:92:13-67
+115            <intent-filter>
+115-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:95:13-98:29
+116                <action android:name="android.intent.action.MAIN" />
+116-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:96:17-68
+116-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:96:25-66
+117
+118                <category android:name="android.intent.category.LAUNCHER" />
+118-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:97:17-76
+118-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:97:27-74
+119            </intent-filter>
+120            <intent-filter>
+120-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:99:13-104:29
+121                <action android:name="android.intent.action.VIEW" />
+121-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:100:17-68
+121-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:100:25-66
+122
+123                <category android:name="android.intent.category.DEFAULT" />
+123-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:101:17-75
+123-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:101:27-73
+124                <category android:name="android.intent.category.BROWSABLE" />
+124-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:102:17-77
+124-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:102:27-75
+125
+126                <data android:scheme="matrp" />
+126-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:103:17-47
+126-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:103:23-45
+127            </intent-filter>
+128        </activity>
+129        <activity
+129-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:107:9-110:45
+130            android:name="ru.azure.launcher.activity.BlockActivity"
+130-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:108:13-68
+131            android:screenOrientation="landscape" />
+131-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:109:13-50
+132
+133        <meta-data
+133-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:112:9-114:35
+134            android:name="android.max_aspect"
+134-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:113:13-46
+135            android:value="2.1" />
+135-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:114:13-32
+136        <meta-data
+136-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:115:9-117:57
+137            android:name="preloaded_fonts"
+137-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:116:13-43
+138            android:resource="@array/preloaded_fonts" />
+138-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:117:13-54
+139        <meta-data
+139-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:118:9-120:54
+140            android:name="com.google.firebase.messaging.default_notification_icon"
+140-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:119:13-83
+141            android:resource="@drawable/azurelogo" />
+141-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:120:13-51
+142
+143        <receiver
+143-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:29:9-40:20
+144            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+144-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:30:13-78
+145            android:exported="true"
+145-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:31:13-36
+146            android:permission="com.google.android.c2dm.permission.SEND" >
+146-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:32:13-73
+147            <intent-filter>
+147-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:33:13-35:29
+148                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+148-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:34:17-81
+148-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:34:25-78
+149            </intent-filter>
+150
+151            <meta-data
+151-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:37:13-39:40
+152                android:name="com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED"
+152-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:38:17-92
+153                android:value="true" />
+153-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:39:17-37
+154        </receiver>
+155        <!--
+156             FirebaseMessagingService performs security checks at runtime,
+157             but set to not exported to explicitly avoid allowing another app to call it.
+158        -->
+159        <service
+159-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:46:9-53:19
+160            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+160-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:47:13-82
+161            android:directBootAware="true"
+161-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:48:13-43
+162            android:exported="false" >
+162-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:49:13-37
+163            <intent-filter android:priority="-500" >
+163-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:59:13-61:29
+164                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+164-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:60:17-78
+164-->D:\Kirill\Java\Matreshka\Java\app\src\main\AndroidManifest.xml:60:25-75
+165            </intent-filter>
+166        </service>
+167        <service
+167-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:54:9-63:19
+168            android:name="com.google.firebase.components.ComponentDiscoveryService"
+168-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:55:13-84
+169            android:directBootAware="true"
+169-->[com.google.firebase:firebase-common:21.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c51f5c820c9229b2a92ef509b730bebb\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+170            android:exported="false" >
+170-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:56:13-37
+171            <meta-data
+171-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:57:13-59:85
+172                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar"
+172-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:58:17-122
+173                android:value="com.google.firebase.components.ComponentRegistrar" />
+173-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:59:17-82
+174            <meta-data
+174-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:60:13-62:85
+175                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+175-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:61:17-119
+176                android:value="com.google.firebase.components.ComponentRegistrar" />
+176-->[com.google.firebase:firebase-messaging:24.1.1] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\e0f3617c35e8847ef009a8f2bb5305a9\transformed\jetified-firebase-messaging-24.1.1\AndroidManifest.xml:62:17-82
+177            <meta-data
+177-->[com.google.firebase:firebase-firestore:25.1.4] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\af6825cea3187616fbe405025967bdc9\transformed\jetified-firebase-firestore-25.1.4\AndroidManifest.xml:17:13-19:85
+178                android:name="com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar"
+178-->[com.google.firebase:firebase-firestore:25.1.4] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\af6825cea3187616fbe405025967bdc9\transformed\jetified-firebase-firestore-25.1.4\AndroidManifest.xml:18:17-122
+179                android:value="com.google.firebase.components.ComponentRegistrar" />
+179-->[com.google.firebase:firebase-firestore:25.1.4] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\af6825cea3187616fbe405025967bdc9\transformed\jetified-firebase-firestore-25.1.4\AndroidManifest.xml:19:17-82
+180            <meta-data
+180-->[com.google.firebase:firebase-firestore:25.1.4] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\af6825cea3187616fbe405025967bdc9\transformed\jetified-firebase-firestore-25.1.4\AndroidManifest.xml:20:13-22:85
+181                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+181-->[com.google.firebase:firebase-firestore:25.1.4] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\af6825cea3187616fbe405025967bdc9\transformed\jetified-firebase-firestore-25.1.4\AndroidManifest.xml:21:17-111
+182                android:value="com.google.firebase.components.ComponentRegistrar" />
+182-->[com.google.firebase:firebase-firestore:25.1.4] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\af6825cea3187616fbe405025967bdc9\transformed\jetified-firebase-firestore-25.1.4\AndroidManifest.xml:22:17-82
+183            <meta-data
+183-->[com.google.firebase:firebase-database:21.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\69efc1bd7051a3e9290585cc30d1827b\transformed\jetified-firebase-database-21.0.0\AndroidManifest.xml:29:13-31:85
+184                android:name="com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar"
+184-->[com.google.firebase:firebase-database:21.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\69efc1bd7051a3e9290585cc30d1827b\transformed\jetified-firebase-database-21.0.0\AndroidManifest.xml:30:17-120
+185                android:value="com.google.firebase.components.ComponentRegistrar" />
+185-->[com.google.firebase:firebase-database:21.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\69efc1bd7051a3e9290585cc30d1827b\transformed\jetified-firebase-database-21.0.0\AndroidManifest.xml:31:17-82
+186            <meta-data
+186-->[com.google.firebase:firebase-database:21.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\69efc1bd7051a3e9290585cc30d1827b\transformed\jetified-firebase-database-21.0.0\AndroidManifest.xml:32:13-34:85
+187                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+187-->[com.google.firebase:firebase-database:21.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\69efc1bd7051a3e9290585cc30d1827b\transformed\jetified-firebase-database-21.0.0\AndroidManifest.xml:33:17-109
+188                android:value="com.google.firebase.components.ComponentRegistrar" />
+188-->[com.google.firebase:firebase-database:21.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\69efc1bd7051a3e9290585cc30d1827b\transformed\jetified-firebase-database-21.0.0\AndroidManifest.xml:34:17-82
+189            <meta-data
+189-->[com.google.android.gms:play-services-measurement-api:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\541d40aa909da1f3d47199b3f1c2e302\transformed\jetified-play-services-measurement-api-22.4.0\AndroidManifest.xml:33:13-35:85
+190                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+190-->[com.google.android.gms:play-services-measurement-api:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\541d40aa909da1f3d47199b3f1c2e302\transformed\jetified-play-services-measurement-api-22.4.0\AndroidManifest.xml:34:17-139
+191                android:value="com.google.firebase.components.ComponentRegistrar" />
+191-->[com.google.android.gms:play-services-measurement-api:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\541d40aa909da1f3d47199b3f1c2e302\transformed\jetified-play-services-measurement-api-22.4.0\AndroidManifest.xml:35:17-82
+192            <meta-data
+192-->[com.google.firebase:firebase-installations:18.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\54f6f890d1ae8bfca36c514f6b0ec714\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:15:13-17:85
+193                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
+193-->[com.google.firebase:firebase-installations:18.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\54f6f890d1ae8bfca36c514f6b0ec714\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:16:17-130
+194                android:value="com.google.firebase.components.ComponentRegistrar" />
+194-->[com.google.firebase:firebase-installations:18.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\54f6f890d1ae8bfca36c514f6b0ec714\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:17:17-82
+195            <meta-data
+195-->[com.google.firebase:firebase-installations:18.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\54f6f890d1ae8bfca36c514f6b0ec714\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:18:13-20:85
+196                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+196-->[com.google.firebase:firebase-installations:18.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\54f6f890d1ae8bfca36c514f6b0ec714\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:19:17-127
+197                android:value="com.google.firebase.components.ComponentRegistrar" />
+197-->[com.google.firebase:firebase-installations:18.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\54f6f890d1ae8bfca36c514f6b0ec714\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:20:17-82
+198            <meta-data
+198-->[com.google.firebase:firebase-common-ktx:21.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\93004306cf2332fad0c552dfc26c9adb\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+199                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+199-->[com.google.firebase:firebase-common-ktx:21.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\93004306cf2332fad0c552dfc26c9adb\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+200                android:value="com.google.firebase.components.ComponentRegistrar" />
+200-->[com.google.firebase:firebase-common-ktx:21.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\93004306cf2332fad0c552dfc26c9adb\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+201            <meta-data
+201-->[com.google.firebase:firebase-common:21.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c51f5c820c9229b2a92ef509b730bebb\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+202                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+202-->[com.google.firebase:firebase-common:21.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c51f5c820c9229b2a92ef509b730bebb\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+203                android:value="com.google.firebase.components.ComponentRegistrar" />
+203-->[com.google.firebase:firebase-common:21.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c51f5c820c9229b2a92ef509b730bebb\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+204            <meta-data
+204-->[com.google.firebase:firebase-datatransport:18.2.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\6f1c72c48ea818c8d7f07ff3da2d8a50\transformed\jetified-firebase-datatransport-18.2.0\AndroidManifest.xml:25:13-27:85
+205                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+205-->[com.google.firebase:firebase-datatransport:18.2.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\6f1c72c48ea818c8d7f07ff3da2d8a50\transformed\jetified-firebase-datatransport-18.2.0\AndroidManifest.xml:26:17-115
+206                android:value="com.google.firebase.components.ComponentRegistrar" />
+206-->[com.google.firebase:firebase-datatransport:18.2.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\6f1c72c48ea818c8d7f07ff3da2d8a50\transformed\jetified-firebase-datatransport-18.2.0\AndroidManifest.xml:27:17-82
+207        </service>
+208        <service android:name="com.liulishuo.filedownloader.services.FileDownloadService$SharedMainProcessService" />
+208-->[com.liulishuo.filedownloader:library:1.7.7] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\4306e90b6ca03ad3e2f551817942abea\transformed\jetified-library-1.7.7\AndroidManifest.xml:12:9-118
+208-->[com.liulishuo.filedownloader:library:1.7.7] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\4306e90b6ca03ad3e2f551817942abea\transformed\jetified-library-1.7.7\AndroidManifest.xml:12:18-115
+209        <service
+209-->[com.liulishuo.filedownloader:library:1.7.7] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\4306e90b6ca03ad3e2f551817942abea\transformed\jetified-library-1.7.7\AndroidManifest.xml:13:9-15:49
+210            android:name="com.liulishuo.filedownloader.services.FileDownloadService$SeparateProcessService"
+210-->[com.liulishuo.filedownloader:library:1.7.7] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\4306e90b6ca03ad3e2f551817942abea\transformed\jetified-library-1.7.7\AndroidManifest.xml:14:13-108
+211            android:process=":filedownloader" />
+211-->[com.liulishuo.filedownloader:library:1.7.7] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\4306e90b6ca03ad3e2f551817942abea\transformed\jetified-library-1.7.7\AndroidManifest.xml:15:13-46
+212
+213        <provider
+213-->[com.google.firebase:firebase-common:21.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c51f5c820c9229b2a92ef509b730bebb\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+214            android:name="com.google.firebase.provider.FirebaseInitProvider"
+214-->[com.google.firebase:firebase-common:21.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c51f5c820c9229b2a92ef509b730bebb\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+215            android:authorities="ru.azure.games.firebaseinitprovider"
+215-->[com.google.firebase:firebase-common:21.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c51f5c820c9229b2a92ef509b730bebb\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+216            android:directBootAware="true"
+216-->[com.google.firebase:firebase-common:21.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c51f5c820c9229b2a92ef509b730bebb\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+217            android:exported="false"
+217-->[com.google.firebase:firebase-common:21.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c51f5c820c9229b2a92ef509b730bebb\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+218            android:initOrder="100" />
+218-->[com.google.firebase:firebase-common:21.0.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c51f5c820c9229b2a92ef509b730bebb\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+219
+220        <service
+220-->[com.google.android.datatransport:transport-backend-cct:3.1.9] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\886f5d5441dd42a643186e3ee983a25f\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:28:9-34:19
+221            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+221-->[com.google.android.datatransport:transport-backend-cct:3.1.9] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\886f5d5441dd42a643186e3ee983a25f\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:29:13-103
+222            android:exported="false" >
+222-->[com.google.android.datatransport:transport-backend-cct:3.1.9] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\886f5d5441dd42a643186e3ee983a25f\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:30:13-37
+223            <meta-data
+223-->[com.google.android.datatransport:transport-backend-cct:3.1.9] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\886f5d5441dd42a643186e3ee983a25f\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:31:13-33:39
+224                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+224-->[com.google.android.datatransport:transport-backend-cct:3.1.9] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\886f5d5441dd42a643186e3ee983a25f\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:32:17-94
+225                android:value="cct" />
+225-->[com.google.android.datatransport:transport-backend-cct:3.1.9] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\886f5d5441dd42a643186e3ee983a25f\transformed\jetified-transport-backend-cct-3.1.9\AndroidManifest.xml:33:17-36
+226        </service>
+227        <service
+227-->[com.google.android.datatransport:transport-runtime:3.1.9] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\811a18ab095cd1d47ddd9b177aa530ad\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:26:9-30:19
+228            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+228-->[com.google.android.datatransport:transport-runtime:3.1.9] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\811a18ab095cd1d47ddd9b177aa530ad\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:27:13-117
+229            android:exported="false"
+229-->[com.google.android.datatransport:transport-runtime:3.1.9] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\811a18ab095cd1d47ddd9b177aa530ad\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:28:13-37
+230            android:permission="android.permission.BIND_JOB_SERVICE" >
+230-->[com.google.android.datatransport:transport-runtime:3.1.9] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\811a18ab095cd1d47ddd9b177aa530ad\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:29:13-69
+231        </service>
+232
+233        <receiver
+233-->[com.google.android.datatransport:transport-runtime:3.1.9] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\811a18ab095cd1d47ddd9b177aa530ad\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:32:9-34:40
+234            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+234-->[com.google.android.datatransport:transport-runtime:3.1.9] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\811a18ab095cd1d47ddd9b177aa530ad\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:33:13-132
+235            android:exported="false" />
+235-->[com.google.android.datatransport:transport-runtime:3.1.9] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\811a18ab095cd1d47ddd9b177aa530ad\transformed\jetified-transport-runtime-3.1.9\AndroidManifest.xml:34:13-37
+236        <receiver
+236-->[com.google.android.gms:play-services-measurement:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c20c24fa4141a1d68435b9147ca7dd1b\transformed\jetified-play-services-measurement-22.4.0\AndroidManifest.xml:29:9-33:20
+237            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+237-->[com.google.android.gms:play-services-measurement:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c20c24fa4141a1d68435b9147ca7dd1b\transformed\jetified-play-services-measurement-22.4.0\AndroidManifest.xml:30:13-85
+238            android:enabled="true"
+238-->[com.google.android.gms:play-services-measurement:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c20c24fa4141a1d68435b9147ca7dd1b\transformed\jetified-play-services-measurement-22.4.0\AndroidManifest.xml:31:13-35
+239            android:exported="false" >
+239-->[com.google.android.gms:play-services-measurement:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c20c24fa4141a1d68435b9147ca7dd1b\transformed\jetified-play-services-measurement-22.4.0\AndroidManifest.xml:32:13-37
+240        </receiver>
+241
+242        <service
+242-->[com.google.android.gms:play-services-measurement:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c20c24fa4141a1d68435b9147ca7dd1b\transformed\jetified-play-services-measurement-22.4.0\AndroidManifest.xml:35:9-38:40
+243            android:name="com.google.android.gms.measurement.AppMeasurementService"
+243-->[com.google.android.gms:play-services-measurement:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c20c24fa4141a1d68435b9147ca7dd1b\transformed\jetified-play-services-measurement-22.4.0\AndroidManifest.xml:36:13-84
+244            android:enabled="true"
+244-->[com.google.android.gms:play-services-measurement:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c20c24fa4141a1d68435b9147ca7dd1b\transformed\jetified-play-services-measurement-22.4.0\AndroidManifest.xml:37:13-35
+245            android:exported="false" />
+245-->[com.google.android.gms:play-services-measurement:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c20c24fa4141a1d68435b9147ca7dd1b\transformed\jetified-play-services-measurement-22.4.0\AndroidManifest.xml:38:13-37
+246        <service
+246-->[com.google.android.gms:play-services-measurement:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c20c24fa4141a1d68435b9147ca7dd1b\transformed\jetified-play-services-measurement-22.4.0\AndroidManifest.xml:39:9-43:72
+247            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+247-->[com.google.android.gms:play-services-measurement:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c20c24fa4141a1d68435b9147ca7dd1b\transformed\jetified-play-services-measurement-22.4.0\AndroidManifest.xml:40:13-87
+248            android:enabled="true"
+248-->[com.google.android.gms:play-services-measurement:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c20c24fa4141a1d68435b9147ca7dd1b\transformed\jetified-play-services-measurement-22.4.0\AndroidManifest.xml:41:13-35
+249            android:exported="false"
+249-->[com.google.android.gms:play-services-measurement:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c20c24fa4141a1d68435b9147ca7dd1b\transformed\jetified-play-services-measurement-22.4.0\AndroidManifest.xml:42:13-37
+250            android:permission="android.permission.BIND_JOB_SERVICE" />
+250-->[com.google.android.gms:play-services-measurement:22.4.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\c20c24fa4141a1d68435b9147ca7dd1b\transformed\jetified-play-services-measurement-22.4.0\AndroidManifest.xml:43:13-69
+251
+252        <activity
+252-->[com.google.android.gms:play-services-base:18.5.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\2dd0fabc4d0306f87d661fcf17f9eed9\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+253            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+253-->[com.google.android.gms:play-services-base:18.5.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\2dd0fabc4d0306f87d661fcf17f9eed9\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+254            android:exported="false"
+254-->[com.google.android.gms:play-services-base:18.5.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\2dd0fabc4d0306f87d661fcf17f9eed9\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+255            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+255-->[com.google.android.gms:play-services-base:18.5.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\2dd0fabc4d0306f87d661fcf17f9eed9\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+256
+257        <uses-library
+257-->[androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\55fdcea599bf640acb2e154f19f5e552\transformed\jetified-ads-adservices-1.1.0-beta11\AndroidManifest.xml:23:9-25:40
+258            android:name="android.ext.adservices"
+258-->[androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\55fdcea599bf640acb2e154f19f5e552\transformed\jetified-ads-adservices-1.1.0-beta11\AndroidManifest.xml:24:13-50
+259            android:required="false" />
+259-->[androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\55fdcea599bf640acb2e154f19f5e552\transformed\jetified-ads-adservices-1.1.0-beta11\AndroidManifest.xml:25:13-37
+260
+261        <meta-data
+261-->[com.google.android.gms:play-services-basement:18.5.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\b602b2e5861c232400d0074ad2ca7cb2\transformed\jetified-play-services-basement-18.5.0\AndroidManifest.xml:21:9-23:69
+262            android:name="com.google.android.gms.version"
+262-->[com.google.android.gms:play-services-basement:18.5.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\b602b2e5861c232400d0074ad2ca7cb2\transformed\jetified-play-services-basement-18.5.0\AndroidManifest.xml:22:13-58
+263            android:value="@integer/google_play_services_version" />
+263-->[com.google.android.gms:play-services-basement:18.5.0] D:\Kirill\games\Programa\AndroidStudio\jbr\caches\transforms-3\b602b2e5861c232400d0074ad2ca7cb2\transformed\jetified-play-services-basement-18.5.0\AndroidManifest.xml:23:13-66
+264    </application>
+265
+266</manifest>
