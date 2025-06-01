@@ -4,4 +4,4 @@
 ### Изменения:
 - 31.05.25 Fix Speedometer in Keyboard
 
-- ![alt text]([github.com/sprite-crmp/webhost/workspaces/webhost/photo_2.jpg](https://github.com/sprite-crmp/webhost/blob/main/photo_1.jpg?raw=true))
+- ![alt text](https://raw.githubusercontent.com/sprite-crmp/webhost/refs/heads/main/photo_1.jpg)
